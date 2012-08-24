@@ -70,6 +70,7 @@ def html_persistance_process(outputQueue):
         if data and 'error' not in data:
             try:
                 data['url'] = url
+                data['epochstamp'] = int(time.time())
                 db.bundle.insert(data)
             except Exception, e:
                 logger.info('Error saving to mongodb %s' % str(e))
