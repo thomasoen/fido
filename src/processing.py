@@ -4,6 +4,7 @@ import logging
 import requests
 import parsing
 import urls
+from pymongo import Connection
 import multiprocessing
 from multiprocessing import Process
 
@@ -56,15 +57,21 @@ def url_fetching_process(urlsQueue, outputQueue):
         logger.debug('Processing %s with %s' % (url, proxy))
         html = requests.get(url, proxies={'http': proxy}).text
         output = parsing.parse_html(html)
-        outputQueue.put(output)
+        outputQueue.put((url, output))
         time.sleep(random.randint(15, 45))
 
 
 def html_persistance_process(outputQueue):
+    conn = Connection()
+    db = conn['crawler']
     logger = _create_process_logger('html_persistance_process')
     while True:
-        data = outputQueue.get()
+        url, data = outputQueue.get()
         if data and 'error' not in data:
+            try:
+                db.bundle.insert(data)
+            except Exception, e:
+                logger.info('Error saving to mongodb %s' % str(e))
             logger.info('Saving dict to mongo as json ' + str(data))
         else:
             logger.info('Skiping due to ' + str(data))

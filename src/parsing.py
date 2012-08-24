@@ -53,16 +53,10 @@ def parse_html(html):
             value = soup.find("span", {"itemprop":info})
             if value:
                 data[info] = value.text
-
-        # Disabled due to:
-        # Traceback (most recent call last):
-        #   File "C:\Python27\lib\multiprocessing\queues.py", line 238, in _feed
-        #     send(obj)
-        # RuntimeError: maximum recursion depth exceeded while pickling an object
-
-        # generalinfo = soup.find("div", {"class":"merchant-tab-unit bizinfo-tab-unit"})
-        # if generalinfo:
-        #     data['general'] = generalinfo
+                
+        generalinfo = soup.find("div", {"class":"merchant-tab-unit bizinfo-tab-unit"})
+        if generalinfo:
+            data['general'] = str(generalinfo)
     except Exception, e:
         data['error'] = str(e)
 
