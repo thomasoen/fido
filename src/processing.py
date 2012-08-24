@@ -69,6 +69,7 @@ def html_persistance_process(outputQueue):
         url, data = outputQueue.get()
         if data and 'error' not in data:
             try:
+                data['url'] = url
                 db.bundle.insert(data)
             except Exception, e:
                 logger.info('Error saving to mongodb %s' % str(e))

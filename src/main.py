@@ -2,7 +2,7 @@
 import processing
 from multiprocessing import Process, Queue
 
-URLS_FILE_PATH = 'urls.txt'
+URLS_FILE_PATH = 'all_urls.txt'
 
 
 def main():
