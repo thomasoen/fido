@@ -38,23 +38,18 @@ def _create_process_logger(name):
 
 
 def url_feeder_process(urlsFile, urlsQueue):
-    logger = _create_process_logger('url_feeder_process')
     generator = urls.urls_generator(urlsFile)
     while True:
         try:
             url, proxy = generator.next()
-            logger.info('Putting item in queue %s %s' % (url, proxy))
             urlsQueue.put((url, proxy))
         except StopIteration:
             break
 
 
 def url_fetching_process(urlsQueue, outputQueue):
-    logger = _create_process_logger('url_fetching_process')
-    logger.info('Listening for items in the queue')
     while True:
         url, proxy = urlsQueue.get()
-        logger.debug('Processing %s with %s' % (url, proxy))
         html = requests.get(url, proxies={'http': proxy}).text
         output = parsing.parse_html(html)
         outputQueue.put((url, output))
@@ -74,6 +69,5 @@ def html_persistance_process(outputQueue):
                 db.bundle.insert(data)
             except Exception, e:
                 logger.info('Error saving to mongodb %s' % str(e))
-            logger.info('Saving dict to mongo as json ' + str(data))
         else:
             logger.info('Skiping due to ' + str(data))
