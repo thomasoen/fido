@@ -58,7 +58,7 @@ def url_fetching_process(urlsQueue, outputQueue):
 	    html = ""
 	output = parsing.parse_html(html)
         outputQueue.put((url, output))
-        time.sleep(random.randint(15, 45))
+        time.sleep(random.randint(2, 10))
 
 
 def html_persistance_process(outputQueue):
