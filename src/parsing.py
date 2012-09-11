@@ -13,14 +13,14 @@ def parse_html(html):
                     hour = hour.getText('|').split('|')
                     data['hours'][hour[0].strip(":")] = hour[1]
                     
-            if box.find("h3", text=re.compile("DAILY TRAFFIC")):
+            if box.find("h2", text=re.compile("DAILY TRAFFIC")):
                 data['traffic'] = {}
                 for day in box.findAll("tr"):
                     daytraffic = day.find("div", {"class":"bar-fill"}).attrs['style']
                     daytext = day.text.strip().replace('\n\n\n\nLess traffic\nMore traffic', '')
                     data['traffic'][daytext] = daytraffic.split(":")[-1]
 
-            if box.find("h3", text=re.compile("DEMOGRAPHICS")):
+            if box.find("h2", text=re.compile("DEMOGRAPHICS")):
                 data['demos'] = {}
                 for demo in box.findAll("tr"):
                     name = demo.find("td")
@@ -28,7 +28,7 @@ def parse_html(html):
                     if value and name:
                         data['demos'][name.text] = value.text
                         
-            if box.find("h3", text=re.compile("BUNDLE SCORE")):
+            if box.find("h2", text=re.compile("BUNDLE SCORE")):
                 data['scores'] = {}
                 for score in box.findAll("tr"):
                     name = score.find("td", {"class":"rating"})
@@ -57,6 +57,12 @@ def parse_html(html):
         generalinfo = soup.find("div", {"class":"merchant-tab-unit bizinfo-tab-unit"})
         if generalinfo:
             data['general'] = str(generalinfo)
+        data_final = {}
+        for key in data:
+          if key.startswith("$"):
+            key = "u" + key
+          data_final[key] = data[key]
+        data = data_final
     except Exception, e:
         data['error'] = str(e)
 

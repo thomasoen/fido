@@ -48,10 +48,15 @@ def url_feeder_process(urlsFile, urlsQueue):
 
 
 def url_fetching_process(urlsQueue, outputQueue):
+    logger = _create_process_logger('url_fetching_process')
     while True:
         url, proxy = urlsQueue.get()
-        html = requests.get(url, proxies={'http': proxy}).text
-        output = parsing.parse_html(html)
+	logger.info('attempting to fetch: %s with: %s' % (url, proxy))
+	try:
+	    html = requests.get(url, proxies={'http': proxy}).text
+        except:
+	    html = ""
+	output = parsing.parse_html(html)
         outputQueue.put((url, output))
         time.sleep(random.randint(15, 45))
 
