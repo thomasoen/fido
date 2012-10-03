@@ -3,6 +3,7 @@ import random
 import logging
 import requests
 import parsing
+import persistor
 import urls
 from pymongo import Connection
 import multiprocessing
@@ -33,7 +34,7 @@ class WorkerPool(object):
 def _create_process_logger(name):
     logger = logging.getLogger(name)
     logger.setLevel(logging.DEBUG)
-    logger.addHandler(logging.FileHandler('%s.log' % name))
+    logger.addHandler(logging.FileHandler('./logs/%s.log' % name))
     return logger
 
 
@@ -56,23 +57,31 @@ def url_fetching_process(urlsQueue, outputQueue):
 	    html = requests.get(url, proxies={'http': proxy}).text
         except:
 	    html = ""
-	output = parsing.parse_html(html)
-        outputQueue.put((url, output))
+	#output = parsing.parse_html(html)
+	#output = persistor.persist_html(html)
+        output = html#stub for now
+	outputQueue.put((url, output))
         time.sleep(random.randint(2, 10))
 
 
 def html_persistance_process(outputQueue):
+
+
     conn = Connection()
     db = conn['crawler']
     logger = _create_process_logger('html_persistance_process')
     while True:
         url, data = outputQueue.get()
-        if data and 'error' not in data:
-            try:
-                data['url'] = url
-                data['epochstamp'] = int(time.time())
-                db.bundle.insert(data)
-            except Exception, e:
-                logger.info('Error saving to mongodb %s' % str(e))
-        else:
-            logger.info('Skiping due to ' + str(data))
+        try:
+	    persistor.persist_html(url, data)
+	except Exception, e:
+	    logger.info("Error saving %s: %s" (url, str(e)))
+	#if data and 'error' not in data:
+        #    try:
+        #        data['url'] = url
+        #        data['epochstamp'] = int(time.time())
+        #        db.bundle.insert(data)
+        #    except Exception, e:
+        #        logger.info('Error saving to mongodb %s' % str(e))
+        #else:
+        #    logger.info('Skiping due to ' + str(data))
