@@ -61,7 +61,7 @@ def url_fetching_process(urlsQueue, outputQueue):
 	#output = persistor.persist_html(html)
         output = html#stub for now
 	outputQueue.put((url, output))
-        time.sleep(random.randint(2, 10))
+        time.sleep(random.randint(20, 75))
 
 
 def html_persistance_process(outputQueue):
