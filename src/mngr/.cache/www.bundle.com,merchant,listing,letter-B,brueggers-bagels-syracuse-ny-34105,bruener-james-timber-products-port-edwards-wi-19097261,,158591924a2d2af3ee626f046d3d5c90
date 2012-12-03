@@ -1,0 +1,2885 @@
+status: 200
+content-length: 91800
+content-location: http://www.bundle.com/merchant/listing/letter-B/brueggers-bagels-syracuse-ny-34105/bruener-james-timber-products-port-edwards-wi-19097261/
+content-type: text/html; charset=utf-8
+vary: Accept-Encoding
+x-bundle-requesttimestamp: t=1354556912818087
+server: Apache/2.2.16 (Win32) mod_wsgi/3.3 Python/2.7.2
+connection: keep-alive
+-content-encoding: gzip
+x-bundle-requestduration: D=62500
+cache-control: public
+date: Mon, 03 Dec 2012 17:48:32 GMT
+x-bundle-server: djbundle-prod-web03-live
+-varied-accept-encoding: gzip, deflate
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+	<link rel="SHORTCUT ICON" href="/assets/favicon.ico" type="image/x-icon" />
+	<title>
+  Business listings: B
+	| Bundle
+</title>
+	<meta name="keywords" content="
+  Bundle helps you discover business Top rated businesses in this area starting with letter: B based on real, transaction data
+" />
+	<meta name="description" content="
+	Bundle helps you discover business Top rated businesses in this area starting with letter: B based on real, transaction data
+" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<link rel="canonical" href="http://www.bundle.com/merchant/listing/letter-B/brueggers-bagels-syracuse-ny-34105/bruener-james-timber-products-port-edwards-wi-19097261/"/>
+	
+	<meta name='robots' content='noindex'>
+	
+	<link rel="stylesheet" type="text/css" href="/assets/css/base.css?v2.1.5150" media="all" />
+	<!--[if IE 7]>
+        <link rel="stylesheet" type="text/css" href="/assets/css/ie7.css?v2.1.5150">
+	<![endif]-->	
+    <!--[if IE 8]>
+        <link rel="stylesheet" type="text/css" href="/assets/css/ie8.css?v2.1.5150">
+    <![endif]-->
+    
+	<script type="text/javascript" src="/assets/js/lib/jquery-1.6.4.min.js?v2.1.5150"></script>
+	
+	<script type="text/javascript" src="/assets/js/lib/jquery.cookie.js?v2.1.5150"></script>
+	
+    
+    <script type="text/javascript" src="/assets/js/lib/jquery.blockUI.min.js"></script>
+	<script type="text/javascript" src="/assets/js/lib/jquery.stickyPanel.min.js"></script>
+	<script type="text/javascript" src="/assets/js/src/core.js?v2.1.5150"></script>
+	<script type="text/javascript" src="/assets/js/src/geolocation/ip-service.js?v2.1.5150"></script>
+    <script type="text/javascript" src="/assets/js/src/geolocation/html5.js?v2.1.5150"></script>
+    <script type="text/javascript" src="/assets/js/src/rec/auth.js?v2.1.5150"></script>
+	<script type="text/javascript" src="/assets/js/src/common/advertise.js?v2.1.5150"></script>
+	<script type="text/javascript" src="http://ads1.msads.net/library/dapmsn.js"></script>
+	
+
+</head>
+<body class="bundle">
+	<script type="text/javascript">
+		// this line stops jquery to log a deprecated warning
+		$(document).ready(function(){ $.event.props = $.event.props.join('|').replace('layerX|layerY|', '').split('|'); });
+	</script>
+	<script type="text/javascript">var _kiq = _kiq || [];</script>
+	<script type="text/javascript" src="//s3.amazonaws.com/ki.js/27211/5ok.js" async="true"></script>
+
+  
+	<!-- begin outer site wrap -->
+	<div id="full-site-wrap">
+	
+		<!-- begin inner site wrap -->
+		<div id="site-wrap">
+			
+			
+			<div id="site-header-wrap">
+				
+
+				<div id="site-header"> 
+					<div id="site-logo"> 
+						<a href="/" title="Bundle"><div class="sprite-common bundle-logo"></div></a>
+						<h3>unbiased, data-driven ratings</h3>
+					</div>
+					
+					<div class="column">
+						<div id="site-search">
+							<div class="search-help">
+								<div class="term-help">Search for (e.g. restaurants or Starbucks)</div>
+								<div class="loc-help">Location (e.g. 10010 or New York, NY)</div>
+							</div>
+							
+							<form id="site-search-form" action="/merchant/search/" method="GET">
+								<input type="text" name="q" value="Search for business name or category" />
+								<strong>near</strong>
+								<input type="text" id="loc" name="loc" value="Location (e.g. 10010 or New York, NY)" />
+								<div id="geo-button" class="geo-unavailable"></div>
+								<!-- <input type="image" name="geo" value="go-geo" class="geo-unavailable" />-->
+								<input type="hidden" id="ac" name="ac" value="" />
+								<input type="submit" name="submit" class="search-button-large" value=""/>
+							</form>
+						</div>
+					</div>
+          <div id="user-wrapper">
+            <div id="not-logged-in" class="signed-out sign-in-link">
+              Sign In
+            </div>
+            <div id="logged-in">
+              <a href="/rec/services/settings/"><div id="user-avatar"></div></a>
+              <span id="user-greeting"><a id="user-name" href="/rec/services/settings/">USER</a></span><br/>
+              <a id="sign-out" href="/auth/logout-new/">sign out</a>
+            </div>
+          </div>
+					
+				</div>
+				
+        
+				<div id="site-nav-bar">
+					<div class="left-column">
+						<a class="my-city-link" href="/guide/city/"><div class="sprite-common home-icon"></div></a><ul><li><a class="my-city-link" href="/guide/city/">MY CITY</a></li></ul>
+					</div>
+					<div class="center-column" style="width: 514px;margin-right:0;">
+						
+							
+  
+    
+							<ul>
+								<li><a class="city-link" href="/merchant/search/?cats=restaurants&s=11">RESTAURANTS</a></li><li><a class="city-link" href="/merchant/search/?cats=bars-and-lounges&s=11">NIGHTLIFE</a></li><li><a class="city-link" href="/merchant/search/?cats=spas&cats=hair-salon&cats=nail-salon">SPA&nbsp;&amp;&nbsp;BEAUTY</a></li><li><a class="city-link" href="/merchant/search/?cats=clothing&cats=shoes&cats=accessories&s=11">SHOPPING</a></li><li><a class="my-categories-link" href="/merchant/categories/">CATEGORIES</a></li><li><a href="/article/">ARTICLES</a></li><li></li>
+							</ul>
+							
+  
+
+						
+					</div>
+				</div>
+        
+
+				
+				<div id="location-bar">
+					
+						<div id="anchor-city"><h6 id="my-city-name">New York,NY</h6>&nbsp(<a id="location-change" href="#change">change</a>)</div>
+					
+					<div id="location-list">
+						<strong>Other Cities:</strong>
+						<ul>
+							<li><a href="/guide/city/new-york-ny/">New York</a> |</li>
+							<li><a href="/guide/city/chicago-il/">Chicago</a> |</li>
+							<li><a href="/guide/city/san-francisco-ca/">San Francisco</a> |</li>
+							<li><a id="location-show-more" href="#more">More</a></li>
+						</ul>
+					</div>
+				</div>
+				<div id="location-more">
+					<h6>Popular Cities</h6>
+		        	<div>
+						<ul>
+							<li><a href="/guide/city/atlanta-ga/">Atlanta</a></li>
+							<li><a href="/guide/city/boston-ma/">Boston</a></li>
+							<li><a href="/guide/city/chicago-il/">Chicago</a></li>
+							<li><a href="/guide/city/dallas-tx/">Dallas</a></li>
+							<li><a href="/guide/city/denver-co/">Denver</a></li>
+							
+							<li><a href="/guide/city/detroit-mi/">Detroit</a></li>
+							<li><a href="/guide/city/houston-tx/">Houston</a></li>
+							<li><a href="/guide/city/los-angeles-ca/">Los Angeles</a></li>
+							<li><a href="/guide/city/miami-fl/">Miami</a></li>
+							<li><a href="/guide/city/minneapolis-mn/">Minneapolis</a></li>
+							
+							<li><a href="/guide/city/new-york-ny/">New York</a></li>
+							<li><a href="/guide/city/orlando-fl/">Orlando</a></li>
+							<li><a href="/guide/city/philadelphia-pa/">Philadelphia</a></li>
+							<li><a href="/guide/city/phoenix-az/">Phoenix</a></li>
+							<li><a href="/guide/city/san-francisco-ca/">San Francisco</a></li>
+							
+							<li><a href="/guide/city/seattle-wa/">Seattle</a></li>
+							<li><a href="/guide/city/tampa-fl/">Tampa Bay</a></li>
+							<li><a href="/guide/city/washington-dc/">Washington DC</a></li>
+						</ul>
+		        	</div>
+			        <div id="location-search" class="input-wrapper one-line-form">
+			          <form id="location-search-form" action="/services/location-search/" method="GET">
+			            Or enter your city or zip code &nbsp;
+			            <input type="text" id="id_location" name="location"/>
+			            <input type="submit" name="submit" value="" />
+			          </form>
+			        </div>
+		        	<div id="location-status" style="display:hidden;"></div>
+				</div>
+				
+			</div>
+			
+			
+			<script type="text/javascript">
+				// if in frame, hide header, execute this as soon as possible. 
+				if(top != self) {
+				    var header = document.getElementById('site-header');
+				    var navBar = document.getElementById('site-nav-bar');
+				    var locationBar = document.getElementById('location-bar');
+				    if(header) { header.style.display='none'; }
+				    if(navBar) { navBar.style.display='none'; }
+				    if(locationBar) { locationBar.style.display='none'; }
+				}
+			</script>
+
+			
+<div id="site-body" class="two-column-page">
+	<div id="content" class="left-column">
+	
+    <!-- Common view: Result Body -->
+    <div class="search-results">
+  		<h1 class="list-view-unit result-view-unit">Business Listings: from Bruegger&#39;s Bagels in Syracuse, NY 13224 to Bruener James Timber Products Inc in Port Edwards, WI 54469</h1>
+
+      <div class="top-merchants">
+      
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-syracuse-ny-34105/">Bruegger&#39;s Bagels in Syracuse, NY 13224</a>
+              	<div class="right">1</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>3065 Erie Blvd E<br/>Syracuse, NY 13224</p>
+	            	<p>(315) 449-2528</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-fairbanks-ak-156736/">Bruegger&#39;s Bagels in Fairbanks, AK 99701</a>
+              	<div class="right">2</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>36 College Rd<br/>Fairbanks, AK 99701</p>
+	            	<p>(907) 452-3940</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-ames-ia-3174757/">Bruegger&#39;s Bagels in Ames, IA 50010</a>
+              	<div class="right">3</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>539 Lincoln Way<br/>Ames, IA 50010</p>
+	            	<p>(515) 663-2002</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-albany-ny-303547/">Bruegger&#39;s Bagels in Albany, NY 12203</a>
+              	<div class="right">4</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>1475 Western Ave<br/>Albany, NY 12203</p>
+	            	<p>(518) 482-3579</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-temecula-ca-451435/">Bruegger&#39;s Bagels in Temecula, CA 92591</a>
+              	<div class="right">5</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>39584 Winchester Rd Ste A<br/>Temecula, CA 92591</p>
+	            	<p>(951) 506-5860</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-asheville-nc-457376/">Bruegger&#39;s Bagels in Asheville, NC 28804</a>
+              	<div class="right">6</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>671 Merrimon Ave<br/>Asheville, NC 28804</p>
+	            	<p>(828) 254-1560</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-syracuse-ny-525817/">Bruegger&#39;s Bagels in Syracuse, NY 13212</a>
+              	<div class="right">7</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>5198 W Taft Rd<br/>Syracuse, NY 13212</p>
+	            	<p>(315) 458-1775</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-hudson-wi-738337/">Bruegger&#39;s Bagels in Hudson, WI 54016</a>
+              	<div class="right">8</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>131 Carmichael Rd<br/>Hudson, WI 54016</p>
+	            	<p>(715) 381-3510</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-greenville-nc-887572/">Bruegger&#39;s Bagels in Greenville, NC 27858</a>
+              	<div class="right">9</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>109 Greenville Blvd SE<br/>Greenville, NC 27858</p>
+	            	<p>(252) 321-6731</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-oak-park-il-1001479/">Bruegger&#39;s Bagels in Oak Park, IL 60301</a>
+              	<div class="right">10</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>1118 Lake St<br/>Oak Park, IL 60301</p>
+	            	<p>(708) 434-5779</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-pittsford-ny-1024304/">Bruegger&#39;s Bagels in Pittsford, NY 14534</a>
+              	<div class="right">11</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p> Panorama Plz<br/>Pittsford, NY 14534</p>
+	            	<p>(585) 264-0550</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-clive-ia-1116587/">Bruegger&#39;s Bagels in Clive, IA 50325</a>
+              	<div class="right">12</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>1650 NW86th St<br/>Clive, IA 50325</p>
+	            	<p>(515) 225-4444</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-coralville-ia-1192980/">Bruegger&#39;s Bagels in Coralville, IA 52241</a>
+              	<div class="right">13</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>404 1st Ave<br/>Coralville, IA 52241</p>
+	            	<p>(319) 337-2243</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-madison-wi-1193192/">Bruegger&#39;s Bagels in Madison, WI 53705</a>
+              	<div class="right">14</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>6150 Mineral Point Rd<br/>Madison, WI 53705</p>
+	            	<p>(608) 236-0607</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-irmo-sc-3710025/">Bruegger&#39;s Bagels in Irmo, SC 29063</a>
+              	<div class="right">15</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>945 Lake Murray Blvd<br/>Irmo, SC 29063</p>
+	            	<p>(803) 749-3000</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-manlius-ny-1552780/">Bruegger&#39;s Bagels in Manlius, NY 13104</a>
+              	<div class="right">16</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>112 E Seneca St<br/>Manlius, NY 13104</p>
+	            	<p>(315) 682-2575</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-rochester-ny-1595604/">Bruegger&#39;s Bagels in Rochester, NY 14612</a>
+              	<div class="right">17</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>3177 Latta Rd<br/>Rochester, NY 14612</p>
+	            	<p>(585) 227-8030</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-northampton-ma-1695144/">Bruegger&#39;s Bagels in Northampton, MA 01060</a>
+              	<div class="right">18</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>96 Main St<br/>Northampton, MA 01060</p>
+	            	<p>(413) 585-0275</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-danbury-ct-3269749/">Bruegger&#39;s Bagels in Danbury, CT 06810</a>
+              	<div class="right">19</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>33 Crosby St<br/>Danbury, CT 06810</p>
+	            	<p>(203) 792-2233</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-liverpool-ny-3275861/">Bruegger&#39;s Bagels in Liverpool, NY 13090</a>
+              	<div class="right">20</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>7601 Oswego Rd<br/>Liverpool, NY 13090</p>
+	            	<p>(315) 652-6957</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-charleston-sc-3472921/">Bruegger&#39;s Bagels in Charleston, SC 29401</a>
+              	<div class="right">21</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>347 King St<br/>Charleston, SC 29401</p>
+	            	<p>(843) 958-2195</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-omaha-ne-3515235/">Bruegger&#39;s Bagels in Omaha, NE 68131</a>
+              	<div class="right">22</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>4015 Dodge St<br/>Omaha, NE 68131</p>
+	            	<p>(402) 558-0800</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-troy-ny-3690939/">Bruegger&#39;s Bagels in Troy, NY 12180</a>
+              	<div class="right">23</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>55 Congress St<br/>Troy, NY 12180</p>
+	            	<p>(518) 274-4469</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-rochester-ny-3909366/">Bruegger&#39;s Bagels in Rochester, NY 14621</a>
+              	<div class="right">24</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>1234 E Ridge Rd<br/>Rochester, NY 14621</p>
+	            	<p>(585) 266-1450</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-iowa-city-ia-3950563/">Bruegger&#39;s Bagels in Iowa City, IA 52240</a>
+              	<div class="right">25</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>225 Iowa Ave<br/>Iowa City, IA 52240</p>
+	            	<p>(319) 354-5343</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-lincoln-ne-4038779/">Bruegger&#39;s Bagels in Lincoln, NE 68508</a>
+              	<div class="right">26</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>1209 Q St<br/>Lincoln, NE 68508</p>
+	            	<p>(402) 474-6001</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-tallahassee-fl-4112261/">Bruegger&#39;s Bagels in Tallahassee, FL 32303</a>
+              	<div class="right">27</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>1216 N Monroe St<br/>Tallahassee, FL 32303</p>
+	            	<p>(850) 224-1409</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-schenectady-ny-4119494/">Bruegger&#39;s Bagels in Schenectady, NY 12309</a>
+              	<div class="right">28</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>1634 Union St<br/>Schenectady, NY 12309</p>
+	            	<p>(518) 393-8667</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-greenville-sc-4303657/">Bruegger&#39;s Bagels in Greenville, SC 29607</a>
+              	<div class="right">29</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>1717 Woodruff Rd<br/>Greenville, SC 29607</p>
+	            	<p>(864) 234-1565</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-gilbert-az-4571496/">Bruegger&#39;s Bagels in Gilbert, AZ 85233</a>
+              	<div class="right">30</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>721 N Arizona Ave Ste 101<br/>Gilbert, AZ 85233</p>
+	            	<p>(480) 503-2200</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-tucson-az-4572972/">Bruegger&#39;s Bagels in Tucson, AZ 85704</a>
+              	<div class="right">31</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>98 W River Rd Ste 100<br/>Tucson, AZ 85704</p>
+	            	<p>(520) 292-2111</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-rochester-ny-4612221/">Bruegger&#39;s Bagels in Rochester, NY 14620</a>
+              	<div class="right">32</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>1400 Mount Hope Ave<br/>Rochester, NY 14620</p>
+	            	<p>(585) 442-4860</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-phoenix-az-4852424/">Bruegger&#39;s Bagels in Phoenix, AZ 85016</a>
+              	<div class="right">33</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>2375 E Camelback Rd<br/>Phoenix, AZ 85016</p>
+	            	<p>(602) 955-4955</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-delmar-ny-17796129/">Bruegger&#39;s Bagels in Delmar, NY 12054</a>
+              	<div class="right">34</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>180 Delaware Ave<br/>Delmar, NY 12054</p>
+	            	<p>(518) 439-0662</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-worthington-oh-17912018/">Bruegger&#39;s Bagels in Worthington, OH 43085</a>
+              	<div class="right">35</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>530 High St<br/>Worthington, OH 43085</p>
+	            	<p>(614) 840-0225</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-arlington-va-17995497/">Bruegger&#39;s Bagels in Arlington, VA 22203</a>
+              	<div class="right">36</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>818 N Quincy St<br/>Arlington, VA 22203</p>
+	            	<p>(703) 248-0980</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-burlington-vt-18054365/">Bruegger&#39;s Bagels in Burlington, VT 05401</a>
+              	<div class="right">37</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>159 Bank St Ste 200<br/>Burlington, VT 05401</p>
+	            	<p>(802) 660-4021</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-raleigh-nc-18474994/">Bruegger&#39;s Bagels in Raleigh, NC 27603</a>
+              	<div class="right">38</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>117 Small Pine Dr<br/>Raleigh, NC 27603</p>
+	            	<p>(919) 661-2525</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-washington-dc-19158842/">Bruegger&#39;s Bagels in Washington, DC 20037</a>
+              	<div class="right">39</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>2101 L St NW Frnt 2<br/>Washington, DC 20037</p>
+	            	<p>(202) 223-5220</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-dublin-oh-19278122/">Bruegger&#39;s Bagels in Dublin, OH 43017</a>
+              	<div class="right">40</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>4425 W Dublin Granville Rd<br/>Dublin, OH 43017</p>
+	            	<p>(614) 761-3730</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-rochester-ny-19433710/">Bruegger&#39;s Bagels in Rochester, NY 14607</a>
+              	<div class="right">41</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>1044 University Ave<br/>Rochester, NY 14607</p>
+	            	<p>(585) 256-1080</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-syracuse-ny-19445887/">Bruegger&#39;s Bagels in Syracuse, NY 13210</a>
+              	<div class="right">42</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>333 Nottingham Rd<br/>Syracuse, NY 13210</p>
+	            	<p>(315) 446-3934</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-corona-del-mar-ca-19479721/">Bruegger&#39;s Bagels in Corona Del Mar, CA 92625</a>
+              	<div class="right">43</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>2743 E Coast Hwy<br/>Corona Del Mar, CA 92625</p>
+	            	<p>(949) 723-4485</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-bettendorf-ia-19656893/">Bruegger&#39;s Bagels in Bettendorf, IA 52722</a>
+              	<div class="right">44</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>1503 Kimberly Rd<br/>Bettendorf, IA 52722</p>
+	            	<p>(563) 359-4540</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-del-mar-ca-19661793/">Bruegger&#39;s Bagels in Del Mar, CA 92014</a>
+              	<div class="right">45</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>1435 Camino Del Mar<br/>Del Mar, CA 92014</p>
+	            	<p>(858) 259-3600</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-tucson-az-19770759/">Bruegger&#39;s Bagels in Tucson, AZ 85701</a>
+              	<div class="right">46</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>1 W Congress St<br/>Tucson, AZ 85701</p>
+	            	<p>(520) 206-0002</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-pittsford-ny-19817468/">Bruegger&#39;s Bagels in Pittsford, NY 14534</a>
+              	<div class="right">47</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p> Bruegger S Bakery<br/>Pittsford, NY 14534</p>
+	            	<p>(585) 264-0060</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-amherst-ma-19822114/">Bruegger&#39;s Bagels in Amherst, MA 01002</a>
+              	<div class="right">48</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>170 N Pleasant St<br/>Amherst, MA 01002</p>
+	            	<p>(413) 253-5713</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-carlsbad-ca-19883690/">Bruegger&#39;s Bagels in Carlsbad, CA 92009</a>
+              	<div class="right">49</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>7680 El Camino Real<br/>Carlsbad, CA 92009</p>
+	            	<p>(760) 632-1432</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-rochester-ny-20128565/">Bruegger&#39;s Bagels in Rochester, NY 14607</a>
+              	<div class="right">50</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>1044 University Ave<br/>Rochester, NY 14607</p>
+	            	<p>(585) 256-1080</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-fairport-ny-20142289/">Bruegger&#39;s Bagels in Fairport, NY 14450</a>
+              	<div class="right">51</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>585 Moseley Rd<br/>Fairport, NY 14450</p>
+	            	<p>(585) 223-8434</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-rancho-santa-margarita-ca-20160837/">Bruegger&#39;s Bagels in Rancho Santa Margarita, CA 92688</a>
+              	<div class="right">52</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>22361 Antonio Pkwy Ste E110<br/>Rancho Santa Margarita, CA 92688</p>
+	            	<p>(949) 589-1790</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-raleigh-nc-20161762/">Bruegger&#39;s Bagels in Raleigh, NC 27609</a>
+              	<div class="right">53</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>4261 Six Forks Rd<br/>Raleigh, NC 27609</p>
+	            	<p>(919) 881-8479</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-raleigh-nc-20338103/">Bruegger&#39;s Bagels in Raleigh, NC 27617</a>
+              	<div class="right">54</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>8211 Brier Creek Pkwy<br/>Raleigh, NC 27617</p>
+	            	<p>(919) 484-8262</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-east-lansing-mi-20399557/">Bruegger&#39;s Bagels in East Lansing, MI 48823</a>
+              	<div class="right">55</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>505 E Grand River Ave<br/>East Lansing, MI 48823</p>
+	            	<p>(517) 332-9940</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-saratoga-springs-ny-20620102/">Bruegger&#39;s Bagels in Saratoga Springs, NY 12866</a>
+              	<div class="right">56</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>453 Broadway<br/>Saratoga Springs, NY 12866</p>
+	            	<p>(518) 584-4372</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-webster-ny-20639390/">Bruegger&#39;s Bagels in Webster, NY 14580</a>
+              	<div class="right">57</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>1950 Empire Blvd<br/>Webster, NY 14580</p>
+	            	<p>(585) 671-0720</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-webster-ny-21081516/">Bruegger&#39;s Bagels in Webster, NY 14580</a>
+              	<div class="right">58</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>1950 Empire Blvd<br/>Webster, NY 14580</p>
+	            	<p>(585) 671-0720</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-haverford-pa-21126221/">Bruegger&#39;s Bagels in Haverford, PA 19041</a>
+              	<div class="right">59</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>396 Lancaster Ave<br/>Haverford, PA 19041</p>
+	            	<p>(610) 645-0250</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-bloomfield-hills-mi-21210750/">Bruegger&#39;s Bagels in Bloomfield Hills, MI 48304</a>
+              	<div class="right">60</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>39568 Woodward Ave<br/>Bloomfield Hills, MI 48304</p>
+	            	<p>(248) 723-5080</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-albany-ny-21214768/">Bruegger&#39;s Bagels in Albany, NY 12207</a>
+              	<div class="right">61</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>29 N Pearl St<br/>Albany, NY 12207</p>
+	            	<p>(518) 463-4961</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-minnetonka-mn-23191575/">Bruegger&#39;s Bagels in Minnetonka, MN 55345</a>
+              	<div class="right">62</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>4719 County Road 101<br/>Minnetonka, MN 55345</p>
+	            	<p>(952) 238-1388</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-tucson-az-23196089/">Bruegger&#39;s Bagels in Tucson, AZ 85747</a>
+              	<div class="right">63</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>8140 S Houghton Rd Ste 150<br/>Tucson, AZ 85747</p>
+	            	<p>(520) 664-1600</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-boca-raton-fl-23370246/">Bruegger&#39;s Bagels in Boca Raton, FL 33431</a>
+              	<div class="right">64</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>2146 N Federal Hwy<br/>Boca Raton, FL 33431</p>
+	            	<p>(561) 391-7993</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-la-jolla-ca-23445601/">Bruegger&#39;s Bagels in La Jolla, CA 92037</a>
+              	<div class="right">65</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>905 Pearl St<br/>La Jolla, CA 92037</p>
+	            	<p>(858) 456-6463</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-madison-al-23718301/">Bruegger&#39;s Bagels in Madison, AL 35758</a>
+              	<div class="right">66</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>347 Hughes Rd<br/>Madison, AL 35758</p>
+	            	<p>(256) 258-0880</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-tucson-az-23760715/">Bruegger&#39;s Bagels in Tucson, AZ 85719</a>
+              	<div class="right">67</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>1064 N Campbell Ave<br/>Tucson, AZ 85719</p>
+	            	<p>(520) 325-4567</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-altamonte-springs-fl-23504924/">Bruegger&#39;s Bagels in Altamonte Springs, FL 32701</a>
+              	<div class="right">68</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>895 E Altamonte Dr<br/>Altamonte Springs, FL 32701</p>
+	            	<p>(407) 629-2245</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-tucson-az-24150826/">Bruegger&#39;s Bagels in Tucson, AZ 85741</a>
+              	<div class="right">69</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>7320 N La Cholla Blvd<br/>Tucson, AZ 85741</p>
+	            	<p>(520) 531-9615</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-raleigh-nc-24322650/">Bruegger&#39;s Bagels in Raleigh, NC 27614</a>
+              	<div class="right">70</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>10750 Wakefield Commons Dr<br/>Raleigh, NC 27614</p>
+	            	<p>(919) 453-2700</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-penfield-ny-4858033/">Bruegger&#39;s Bagels in Penfield, NY 14526</a>
+              	<div class="right">71</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>2200 Penfield Rd<br/>Penfield, NY 14526</p>
+	            	<p>(585) 377-6350</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-brockport-ny-24681384/">Bruegger&#39;s Bagels in Brockport, NY 14420</a>
+              	<div class="right">72</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>6510 Brockport Spencerport Rd<br/>Brockport, NY 14420</p>
+	            	<p>(585) 637-3110</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-rochester-ny-25126736/">Bruegger&#39;s Bagels in Rochester, NY 14618</a>
+              	<div class="right">73</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>2951 Monroe Ave<br/>Rochester, NY 14618</p>
+	            	<p>(585) 697-0158</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueggers-bagels-albany-ny-24691466/">Bruegger&#39;s Bagels in Albany, NY 12205</a>
+              	<div class="right">74</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>1770 Central Ave<br/>Albany, NY 12205</p>
+	            	<p>(518) 464-0363</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Bakeries
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/bruehl-oil-co-purcell-ok-3933774/">Bruehl Oil Co in Purcell, OK 73080</a>
+              	<div class="right">75</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>26511 221st St<br/>Purcell, OK 73080</p>
+	            	<p>(405) 527-3333</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Gas
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/brueilly-auto-repair-center-asheboro-nc-20214706/">Brueilly Auto Repair Center in Asheboro, NC 27205</a>
+              	<div class="right">76</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>2059 Us Highway 64 W<br/>Asheboro, NC 27205</p>
+	            	<p>(336) 629-4558</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Auto, Boat, and RV Repair
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/bruel-and-kjaer-norcross-ga-21127698/">Bruel &amp; Kjaer in Norcross, GA 30071</a>
+              	<div class="right">77</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>2815 Colonnades Ct Ste A<br/>Norcross, GA 30071</p>
+	            	<p>(770) 209-6907</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Advertising
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/bruenders-corner-mart-tyler-mn-19912053/">Bruender&#39;s Corner Mart</a>
+              	<div class="right">78</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>None</p>
+	            	<p>(507) 247-5587</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Other Specialty Food and Drink Stores
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/bruener-james-timber-products-port-edwards-wi-19097261/">Bruener James Timber Products Inc in Port Edwards, WI 54469</a>
+              	<div class="right">79</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>511 Bruener Rd<br/>Port Edwards, WI 54469</p>
+	            	<p>(715) 887-3204</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Building Materials
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+      </div>
+   </div>
+
+	</div>
+
+	<div id="right-rail" class="right-column">
+	
+	
+		<div id="httpPremiumAd-BUNR01" class="msad"></div>
+
+<div class="feature-box">
+    <div id="adZone-206325" class="advert-mod"></div>
+</div>
+ 
+
+
+
+
+
+
+
+
+
+
+
+<div class="feature-box">
+  <h2>Our Free Newsletter</h2>
+  <div class="feature-box-section">
+    <p>Get more great insights delivered to you Inbox. Sign up for Bundle's FREE Newsletter!</p>
+    <form id="subscribe-form" action="/services/email-subscribe/" method="POST">
+      <div class="input-wrapper one-line-form">
+        <input type="text" id="id-email" name="email"/>
+      </div>
+      <div class="input-wrapper one-line-form">
+        <input type="text" id="id-zip" name="zip"/>
+        <input type="submit" id="id-submit" name="submit" value="" />
+      </div>
+    </form>
+    <div id="subscribe-status"></div>
+    <a href="/privacy-policy" class="legalese">privacy policy</a>
+  </div>
+</div>
+
+<script>
+  email_subscribe = {
+      init: function() {
+          eventName = 'Newsletter Widget Sign up'
+          actionName = 'Side Rail'
+
+          // trigger analytics event, on view:
+          if (typeof B2.Merchant != "undefined") {
+          	label = 'Merchant Search';
+          } else if (typeof B2.Article == "undefined") {
+            label = 'Content Landing'
+          } else {
+            label = B2.Article.slug;
+          }
+          B2.Tracking.trackEvent(eventName, actionName, label, true)
+
+          // clear email subscribe input when clicked
+          B2.Core.Util.buildDefaultPrefill(
+              $('#id-email'),
+              'Enter email address',
+              'faded'
+          );
+          B2.Core.Util.buildDefaultPrefill(
+              $('#id-zip'),
+              'Enter your ZIP code',
+              'faded'
+          );
+
+          $("#subscribe-form").submit(function(e) {
+              B2.Tracking.trackEvent(eventName, actionName, 'Submitted', true)
+              e.preventDefault();
+              var email = "", zip = "";
+              email = $("#id-email").attr("value");
+              zip = $("#id-zip").attr("value")
+              // make ajax call to fetch csrf token
+              csrfToken = ""
+              setCsrfToken = function(value) {
+                csrfToken = value['csrf_token'];
+
+                // post request to /email-subscribe/ handler
+                $.ajax({
+                    url: "/services/email-subscribe/",
+                    type: "POST",
+                    data: {"source":"right-rail", "email":email, "zip":zip, "csrfmiddlewaretoken":csrfToken},
+                    success: function(response) {
+                        if (response.indexOf('Thanks') == 0) {
+                            $("#id-email").attr("disabled", "disabled");
+                            $("#id-zip").attr("disabled", "disabled");
+                            $("#id-submit").attr("disabled", "disabled");
+                            $("#id-submit").addClass("opacitated");
+                            B2.Tracking.trackEvent(eventName, actionName, 'ResponseSuccess', true)
+                        } else {
+                            B2.Tracking.trackEvent(eventName, actionName, 'ResponseUserError', true)
+                        }
+                        // update the front end if user successfully subscribes
+                        $("#subscribe-status").html(response);
+                        $("#subscribe-status").hide().fadeIn("fast");
+                    },
+                    error: function (response) {
+                        B2.Tracking.trackEvent(eventName, actionName, 'ResponseServerError', true)
+                        $("#subscribe-status").html("We had a server error, and couldn't subscribe you. But please, try again later, thanks!");
+                        $("#subscribe-status").hide().fadeIn("fast");
+                    }
+                });   
+              }
+              $.ajax({
+                url: "/services/fetch-csrf/",
+                type: "POST",
+                async: false,
+                success: setCsrfToken,
+                error: function (response) {
+                  B2.Tracking.trackEvent(eventName, actionName, 'ResponseServerCsrfError', true)
+                  $("#subscribe-status").html("We had a server error, and couldn't subscribe you. But please, try again later, thanks!");
+                  $("#subscribe-status").hide().fadeIn("fast");
+                }
+              })
+              // provide visual feedback to user
+              $("#subscribe-status").html("Sending your request...");
+              $("#subscribe-status").hide().fadeIn("fast");
+          });
+      }
+  };
+  $(document).ready(function(){
+    // init the newsletter signup
+    email_subscribe.init();
+  });
+</script>
+
+
+
+
+
+
+
+<div class="feature-box">
+	<script type='text/javascript'><!--//<![CDATA[
+	   var m3_u = (location.protocol=='https:'?'https://d1.openx.org/ajs.php':'http://d1.openx.org/ajs.php');
+	   var m3_r = Math.floor(Math.random()*99999999999);
+	   if (!document.MAX_used) document.MAX_used = ',';
+	   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+	   document.write ("?zoneid=195919");
+	   document.write ('&amp;cb=' + m3_r);
+	   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+	   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+	   document.write ("&amp;loc=" + escape(window.location));
+	   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+	   if (document.context) document.write ("&context=" + escape(document.context));
+	   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+	   document.write ("'><\/scr"+"ipt>");
+	//]]>--></script><noscript><a href='http://d1.openx.org/ck.php?n=abe41511&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://d1.openx.org/avw.php?zoneid=195919&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=abe41511' border='0' alt='' /></a></noscript>
+</div>
+	
+
+	</div>
+</div>
+
+
+			
+			
+		</div>
+		<!-- end inner site wrap -->
+
+		<div id="site-footer">
+		    <table>
+		        <tr>
+		            <th><img src="/assets/img/footer/sitelinks.png" width="80" height="12"></th>
+		            <th><img src="/assets/img/footer/aboutUs.png" width="80" height="12"></th>
+		            <th><img src="/assets/img/footer/getintouch.png" width="80" height="12"></th>
+		            <th><img src="/assets/img/footer/policy.png" width="105" height="12"></th>
+		            <th colspan="2"><img src="/assets/img/footer/connect.png" width="70" height="12"></th>
+		        </tr>
+		        <tr>
+		            <td><a href="http://www.bundle.com">Home</a></td>
+		            <td><a href="/what-we-do/">What We Do</a></td>
+		            <td><a href="/press/">For the Press</a></td>
+		            <td><a href="/community-policy/">Community Policy</a></td>
+		            <td class="socialicon"><a href="/content/feeds/rss/latestpicks/"><img src="/assets/img/footer/rss.png" width="17" height="17"></a></td>
+		            <td><a href="/content/feeds/rss/latestpicks/">RSS</a></td>
+		        </tr>
+		        <tr>
+		            <td><a href="/supportpage/">Support</a></td>
+		            <td><a href="/partners/">Our Partners</a></td>
+		            <td><a href="/api/">API</a></td>
+		            <td><a href="/security-policy/">Security Policy</a></td>
+		            <td class="socialicon"><a href="http://www.facebook.com/BundleFB" target="_blank"><img src="/assets/img/footer/facebook.png" width="17" height="17"></a></td>
+		            <td><a href="http://www.facebook.com/BundleFB" target="_blank">Facebook</a></td>           
+		        </tr>
+		        <tr>
+		            <td><a href="/mymoney/">My Money</a></td>
+		            <td><a href="/in-the-media/">In the Media</a></td>
+		            <td><a href="/careers/">Careers</a></td>
+		            <td><a href="/privacy-policy/">Privacy Policy</a></td>
+		            <td class="socialicon"><a href="http://twitter.com/#!/bundlehq" target="_blank"><img src="/assets/img/footer/twitter.png" width="17" height="17"></a></td>
+		            <td><a href="http://twitter.com/#!/bundlehq" target="_blank">Twitter</a></td>
+		        </tr>
+		        <tr>
+                	<td><a href="/sitemap/">Site Map</a></td>
+		            <td>&nbsp;</td>
+		            <td><a href="/contact/">Contact Us</a></td>
+		            <td><a href="/terms/">Terms of Use</a></td>
+		            <td class="socialicon"><a href="http://bundlehq.tumblr.com/" target="_blank"><img src="/assets/img/footer/tumblr.png" width="17" height="17"></a></td>
+		            <td><a href="http://bundlehq.tumblr.com/" target="_blank">Tumblr</a></td>
+		        </tr>
+		        <tr>
+		            <td>&nbsp;</td>
+		            <td>&nbsp;</td>
+		            <td>&nbsp;</td>
+		            <td><a href="/photo-credits/">Photo Credits</a></td>
+		            <td class="socialicon"><a href="http://www.stumbleupon.com/url/bundle.com/" target="_blank"><img src="/assets/img/footer/stumbleupon.png" width="17" height="17"></a></td>
+		            <td><a href="http://www.stumbleupon.com/url/bundle.com/" target="_blank">StumbleUpon</a></td>
+		        </tr>
+		        <tr>
+                	<td>&nbsp;</td>
+		            <td>&nbsp;</td>
+		            <td>&nbsp;</td>
+		            <td>&nbsp;</td>
+		            <td class="socialicon"><a href="http://www.flickr.com/photos/bundlehq/" target="_blank"><img src="/assets/img/footer/flickr.png" width="17" height="17"></a></td>
+		            <td><a href="http://www.flickr.com/photos/bundlehq/" target="_blank">Flickr</a></td>
+		        </tr>
+		            <td>&nbsp;</td>
+		            <td>&nbsp;</td>
+		            <td>&nbsp;</td>
+		            <td>&nbsp;</td>
+		            <td class="socialicon">
+		            	<a href="https://plus.google.com/111048521133111927422?prsrc=3" rel="publisher" style="text-decoration:none;">
+		            		<img src="https://ssl.gstatic.com/images/icons/gplus-16.png" alt="" style="border:0;width:16px;height:16px;" width="17" height="17"/>
+		            	</a>
+		            </td>
+		            <td>
+		            	<a href="https://plus.google.com/111048521133111927422?prsrc=3" target="_blank">Google+</a>
+		            </td>
+		        </tr>
+		    </table>    
+		    <table>   
+		        <tr>
+		            <td colspan="2" height="50">&nbsp;</td>
+		        </tr>
+		        <tr>
+		            <td width="50%">
+		                <p><a href="http://www.bundle.com"><img src="/assets/img/footer/bundleLogoWhite.png" width="70" height="25" alt="Bundle"></a></p>
+		                <div class="legalese">
+		                    <p>&copy; 2011 Bundle Corporation. All Rights Reserved</p>
+		                    <p>The trademarks/service marks BUNDLE, Bundle.com and the Bundle logos are the property of Bundle Corporation. 
+		                        All other trademarks displayed on this site are the property of their respective owners.</p>
+		                </div>
+		                <p class="legalese"><a id="made-in-nyc" href="http://nytm.org/made">Bundled in NYC</a> &#9656;</p>
+		            </td>
+		            <td class="partner-logos" colspan="3">
+		                <img src="/assets/img/footer/partnerlogos.png" width="250" height="50" usemap="#partnermap" alt="Partners &amp; Investors">
+		            </td>
+		       </tr>
+		    </table>
+		</div>
+		
+		<!-- image map -->
+		<map id="partnermap" name="partnermap">
+		    <area alt="" coords="1,1,128,31" href="http://money.msn.com/" shape="rect" target="_blank" title="MSN Money" />
+		    <area alt="" coords="130,1,170,31" href="http://www.citigroup.com/" shape="rect" target="_blank" title="Citi" />
+		    <area alt="" coords="172,1,250,31" href="http://www.morningstar.com/" shape="rect" target="_blank" title="Morningstar" />
+		 </map>
+		<!-- end image map -->
+
+	</div>
+	<!-- begin outer site wrap -->
+
+
+	<!-- modal dialog content divs for geolocation -->
+	<div id="geo-detecting" style="display:none;">
+		Detecting current location.
+	</div>
+	<div id="geo-resolved" style="display:none;">
+		Resolved to location coordinates: <span id="geo-coordinates">&nbsp;</span>
+	</div>
+	<div id="geo-error" style="display:none;">
+		Sorry, we could not detect your current location. <span id="error-close">(x)</span>
+	</div>
+
+	<div id="auth-login" style="display:none;">
+		<div class="close">
+			<img src="/assets/img/btn/dismiss.png">
+		</div>
+		<div class="signup-copy">
+			Sign in to rate businesses and get recommendations
+			tailored to your tastes
+		</div>
+
+		<div class="buttons">
+			<a class="sign-in facebook-login" rel="nofollow"
+			href="/auth/social/login/facebook/"><img
+			src="/assets/img/btn/facebook-btn.png"></a>
+			<a class="sign-in foursquare-login" rel="nofollow"
+			href="/auth/social/login/foursquare/"><img
+			src="/assets/img/btn/foursquare-btn.png"></a>
+		</div>
+
+		<div class="disclaimer">
+			Unless you sign in, we can't keep track of your tastes and recommend places to you.
+			Bundle will never post anything to your account without your permission.
+		</div>
+	</div>
+	
+	<div id="simple-auth-login" style="display:none;">
+		<div class="header">
+			<div class="title poll-title"></div>
+			<div class="title sign-in-title">Sign in to get your personal rating</div>
+			<div class="close">
+				<img src="/assets/img/btn/dismiss.png">
+			</div>
+		</div>
+		
+		<div class="body poll-body">
+			<div class="top">
+				<div title="Rated /100" class="star-rating">
+					<div class="inner-star-rating"></div>
+				</div>
+				<H2 class="you">Bundle score for you: <span class="score"></span></H2>
+				<H2 class="everyone">Bundle score for everyone: <span class="score"></span></H2>
+			</div>
+			<div class="bottom  poll-unit"></div>
+		</div>
+		
+		<div class="body sign-in-body">
+			<div class="buttons">
+				<a class="sign-in facebook-login" rel="nofollow"
+				href="/auth/social/login/facebook/"><img
+				src="/assets/img/btn/facebook-btn.png"></a>
+				<a class="sign-in foursquare-login" rel="nofollow"
+				href="/auth/social/login/foursquare/"><img
+				src="/assets/img/btn/foursquare-btn.png"></a>
+				<div class="msg">Nothing will be posted to<br/> your account</div>
+			</div>
+		</div>
+
+		<div class="footer">
+			<input type="button" class="cancel" value="Cancel" />
+		</div>
+	</div>
+  
+	<!-- generic tooltip module -->
+	<div id="tooltip-wrapper"><div id="tooltip-body"></div><div id="tooltip-nub"></div></div><div id="image-tooltip-wrapper"></div>
+
+	<script language="javascript" type="text/javascript">
+		if (typeof B2 == "undefined") { var B2 = {}; }
+		
+		var DEFAULT_SEARCH_TERM = "Search for business name or category";
+		var DEFAULT_SEARCH_LOCATION = "Location (e.g. 10010 or New York, NY)";
+		var skipLocUpdate = false;
+		$(document).ready(function(){
+			B2.Core.init();
+			B2.GeoLocation.HTML5.init();
+			B2.Rec.Auth.init();
+			
+			try{ B2.Common.Advertise.init();}
+			catch(err){ B2.Logger.log('ad unit script not loaded'); }
+		});
+		
+    var _gaq = _gaq || [];
+	  
+    _gaq.push(['_setAccount', 'UA-15170101-1']);
+    _gaq.push(['_setDomainName', '.bundle.com']);
+    _gaq.push(['_trackPageview']);
+    
+
+    (function() {
+        var ga = document.createElement('script');     ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:'   == document.location.protocol ? 'https://ssl'   : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+    
+  
+		
+
+	</script>
+</body>
+</html>

@@ -1,0 +1,2885 @@
+status: 200
+content-length: 93022
+content-location: http://www.bundle.com/merchant/listing/letter-B/baskin-robbins-cudahy-ca-19946909/baskin-robbins-pigeon-forge-tn-21903861/
+content-type: text/html; charset=utf-8
+vary: Accept-Encoding
+x-bundle-requesttimestamp: t=1354556756802462
+server: Apache/2.2.16 (Win32) mod_wsgi/3.3 Python/2.7.2
+connection: keep-alive
+-content-encoding: gzip
+x-bundle-requestduration: D=93750
+cache-control: public
+date: Mon, 03 Dec 2012 17:45:56 GMT
+x-bundle-server: djbundle-prod-web03-live
+-varied-accept-encoding: gzip, deflate
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+	<link rel="SHORTCUT ICON" href="/assets/favicon.ico" type="image/x-icon" />
+	<title>
+  Business listings: B
+	| Bundle
+</title>
+	<meta name="keywords" content="
+  Bundle helps you discover business Top rated businesses in this area starting with letter: B based on real, transaction data
+" />
+	<meta name="description" content="
+	Bundle helps you discover business Top rated businesses in this area starting with letter: B based on real, transaction data
+" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<link rel="canonical" href="http://www.bundle.com/merchant/listing/letter-B/baskin-robbins-cudahy-ca-19946909/baskin-robbins-pigeon-forge-tn-21903861/"/>
+	
+	<meta name='robots' content='noindex'>
+	
+	<link rel="stylesheet" type="text/css" href="/assets/css/base.css?v2.1.5150" media="all" />
+	<!--[if IE 7]>
+        <link rel="stylesheet" type="text/css" href="/assets/css/ie7.css?v2.1.5150">
+	<![endif]-->	
+    <!--[if IE 8]>
+        <link rel="stylesheet" type="text/css" href="/assets/css/ie8.css?v2.1.5150">
+    <![endif]-->
+    
+	<script type="text/javascript" src="/assets/js/lib/jquery-1.6.4.min.js?v2.1.5150"></script>
+	
+	<script type="text/javascript" src="/assets/js/lib/jquery.cookie.js?v2.1.5150"></script>
+	
+    
+    <script type="text/javascript" src="/assets/js/lib/jquery.blockUI.min.js"></script>
+	<script type="text/javascript" src="/assets/js/lib/jquery.stickyPanel.min.js"></script>
+	<script type="text/javascript" src="/assets/js/src/core.js?v2.1.5150"></script>
+	<script type="text/javascript" src="/assets/js/src/geolocation/ip-service.js?v2.1.5150"></script>
+    <script type="text/javascript" src="/assets/js/src/geolocation/html5.js?v2.1.5150"></script>
+    <script type="text/javascript" src="/assets/js/src/rec/auth.js?v2.1.5150"></script>
+	<script type="text/javascript" src="/assets/js/src/common/advertise.js?v2.1.5150"></script>
+	<script type="text/javascript" src="http://ads1.msads.net/library/dapmsn.js"></script>
+	
+
+</head>
+<body class="bundle">
+	<script type="text/javascript">
+		// this line stops jquery to log a deprecated warning
+		$(document).ready(function(){ $.event.props = $.event.props.join('|').replace('layerX|layerY|', '').split('|'); });
+	</script>
+	<script type="text/javascript">var _kiq = _kiq || [];</script>
+	<script type="text/javascript" src="//s3.amazonaws.com/ki.js/27211/5ok.js" async="true"></script>
+
+  
+	<!-- begin outer site wrap -->
+	<div id="full-site-wrap">
+	
+		<!-- begin inner site wrap -->
+		<div id="site-wrap">
+			
+			
+			<div id="site-header-wrap">
+				
+
+				<div id="site-header"> 
+					<div id="site-logo"> 
+						<a href="/" title="Bundle"><div class="sprite-common bundle-logo"></div></a>
+						<h3>unbiased, data-driven ratings</h3>
+					</div>
+					
+					<div class="column">
+						<div id="site-search">
+							<div class="search-help">
+								<div class="term-help">Search for (e.g. restaurants or Starbucks)</div>
+								<div class="loc-help">Location (e.g. 10010 or New York, NY)</div>
+							</div>
+							
+							<form id="site-search-form" action="/merchant/search/" method="GET">
+								<input type="text" name="q" value="Search for business name or category" />
+								<strong>near</strong>
+								<input type="text" id="loc" name="loc" value="Location (e.g. 10010 or New York, NY)" />
+								<div id="geo-button" class="geo-unavailable"></div>
+								<!-- <input type="image" name="geo" value="go-geo" class="geo-unavailable" />-->
+								<input type="hidden" id="ac" name="ac" value="" />
+								<input type="submit" name="submit" class="search-button-large" value=""/>
+							</form>
+						</div>
+					</div>
+          <div id="user-wrapper">
+            <div id="not-logged-in" class="signed-out sign-in-link">
+              Sign In
+            </div>
+            <div id="logged-in">
+              <a href="/rec/services/settings/"><div id="user-avatar"></div></a>
+              <span id="user-greeting"><a id="user-name" href="/rec/services/settings/">USER</a></span><br/>
+              <a id="sign-out" href="/auth/logout-new/">sign out</a>
+            </div>
+          </div>
+					
+				</div>
+				
+        
+				<div id="site-nav-bar">
+					<div class="left-column">
+						<a class="my-city-link" href="/guide/city/"><div class="sprite-common home-icon"></div></a><ul><li><a class="my-city-link" href="/guide/city/">MY CITY</a></li></ul>
+					</div>
+					<div class="center-column" style="width: 514px;margin-right:0;">
+						
+							
+  
+    
+							<ul>
+								<li><a class="city-link" href="/merchant/search/?cats=restaurants&s=11">RESTAURANTS</a></li><li><a class="city-link" href="/merchant/search/?cats=bars-and-lounges&s=11">NIGHTLIFE</a></li><li><a class="city-link" href="/merchant/search/?cats=spas&cats=hair-salon&cats=nail-salon">SPA&nbsp;&amp;&nbsp;BEAUTY</a></li><li><a class="city-link" href="/merchant/search/?cats=clothing&cats=shoes&cats=accessories&s=11">SHOPPING</a></li><li><a class="my-categories-link" href="/merchant/categories/">CATEGORIES</a></li><li><a href="/article/">ARTICLES</a></li><li></li>
+							</ul>
+							
+  
+
+						
+					</div>
+				</div>
+        
+
+				
+				<div id="location-bar">
+					
+						<div id="anchor-city"><h6 id="my-city-name">New York,NY</h6>&nbsp(<a id="location-change" href="#change">change</a>)</div>
+					
+					<div id="location-list">
+						<strong>Other Cities:</strong>
+						<ul>
+							<li><a href="/guide/city/new-york-ny/">New York</a> |</li>
+							<li><a href="/guide/city/chicago-il/">Chicago</a> |</li>
+							<li><a href="/guide/city/san-francisco-ca/">San Francisco</a> |</li>
+							<li><a id="location-show-more" href="#more">More</a></li>
+						</ul>
+					</div>
+				</div>
+				<div id="location-more">
+					<h6>Popular Cities</h6>
+		        	<div>
+						<ul>
+							<li><a href="/guide/city/atlanta-ga/">Atlanta</a></li>
+							<li><a href="/guide/city/boston-ma/">Boston</a></li>
+							<li><a href="/guide/city/chicago-il/">Chicago</a></li>
+							<li><a href="/guide/city/dallas-tx/">Dallas</a></li>
+							<li><a href="/guide/city/denver-co/">Denver</a></li>
+							
+							<li><a href="/guide/city/detroit-mi/">Detroit</a></li>
+							<li><a href="/guide/city/houston-tx/">Houston</a></li>
+							<li><a href="/guide/city/los-angeles-ca/">Los Angeles</a></li>
+							<li><a href="/guide/city/miami-fl/">Miami</a></li>
+							<li><a href="/guide/city/minneapolis-mn/">Minneapolis</a></li>
+							
+							<li><a href="/guide/city/new-york-ny/">New York</a></li>
+							<li><a href="/guide/city/orlando-fl/">Orlando</a></li>
+							<li><a href="/guide/city/philadelphia-pa/">Philadelphia</a></li>
+							<li><a href="/guide/city/phoenix-az/">Phoenix</a></li>
+							<li><a href="/guide/city/san-francisco-ca/">San Francisco</a></li>
+							
+							<li><a href="/guide/city/seattle-wa/">Seattle</a></li>
+							<li><a href="/guide/city/tampa-fl/">Tampa Bay</a></li>
+							<li><a href="/guide/city/washington-dc/">Washington DC</a></li>
+						</ul>
+		        	</div>
+			        <div id="location-search" class="input-wrapper one-line-form">
+			          <form id="location-search-form" action="/services/location-search/" method="GET">
+			            Or enter your city or zip code &nbsp;
+			            <input type="text" id="id_location" name="location"/>
+			            <input type="submit" name="submit" value="" />
+			          </form>
+			        </div>
+		        	<div id="location-status" style="display:hidden;"></div>
+				</div>
+				
+			</div>
+			
+			
+			<script type="text/javascript">
+				// if in frame, hide header, execute this as soon as possible. 
+				if(top != self) {
+				    var header = document.getElementById('site-header');
+				    var navBar = document.getElementById('site-nav-bar');
+				    var locationBar = document.getElementById('location-bar');
+				    if(header) { header.style.display='none'; }
+				    if(navBar) { navBar.style.display='none'; }
+				    if(locationBar) { locationBar.style.display='none'; }
+				}
+			</script>
+
+			
+<div id="site-body" class="two-column-page">
+	<div id="content" class="left-column">
+	
+    <!-- Common view: Result Body -->
+    <div class="search-results">
+  		<h1 class="list-view-unit result-view-unit">Business Listings: from Baskin-Robbins in Cudahy, CA 90201 to Baskin-Robbins in Pigeon Forge, TN 37863</h1>
+
+      <div class="top-merchants">
+      
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-cudahy-ca-19946909/">Baskin-Robbins in Cudahy, CA 90201</a>
+              	<div class="right">1</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>6907 Atlantic Ave<br/>Cudahy, CA 90201</p>
+	            	<p>(323) 773-1131</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-chino-hills-ca-19974220/">Baskin-Robbins in Chino Hills, CA 91709</a>
+              	<div class="right">2</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>4200 Chino Hills Pkwy<br/>Chino Hills, CA 91709</p>
+	            	<p>(909) 393-9705</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-spring-tx-19995664/">Baskin-Robbins in Spring, TX 77379</a>
+              	<div class="right">3</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>16836 Stuebner Airline Rd<br/>Spring, TX 77379</p>
+	            	<p>(281) 376-9144</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-williams-ca-20005629/">Baskin-Robbins in Williams, CA 95987</a>
+              	<div class="right">4</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>301 Vann St<br/>Williams, CA 95987</p>
+	            	<p>(530) 473-3247</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-vancouver-wa-20005889/">Baskin-Robbins in Vancouver, WA 98685</a>
+              	<div class="right">5</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>800 NE Tenney Rd Ste 109<br/>Vancouver, WA 98685</p>
+	            	<p>(360) 566-1119</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-mission-ks-20026289/">Baskin-Robbins in Mission, KS 66205</a>
+              	<div class="right">6</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>5425 Johnson Dr<br/>Mission, KS 66205</p>
+	            	<p>(913) 262-3151</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-fairfax-va-20040944/">Baskin-Robbins in Fairfax, VA 22030</a>
+              	<div class="right">7</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>10400 Fairfax Blvd<br/>Fairfax, VA 22030</p>
+	            	<p>(703) 273-3131</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-los-angeles-ca-20060491/">Baskin-Robbins in Los Angeles, CA 90047</a>
+              	<div class="right">8</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>1954 W Slauson Ave<br/>Los Angeles, CA 90047</p>
+	            	<p>(323) 294-1131</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-muncie-in-20068277/">Baskin-Robbins in Muncie, IN 47304</a>
+              	<div class="right">9</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>3308 N Wheeling Ave<br/>Muncie, IN 47304</p>
+	            	<p>(765) 289-9969</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-taos-nm-20069961/">Baskin-Robbins in Taos, NM 87571</a>
+              	<div class="right">10</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>717 Paseo Del Pueblo Sur<br/>Taos, NM 87571</p>
+	            	<p>(575) 758-0031</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-pensacola-fl-20072853/">Baskin-Robbins in Pensacola, FL 32503</a>
+              	<div class="right">11</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>4350 Bayou Blvd<br/>Pensacola, FL 32503</p>
+	            	<p>(850) 484-9000</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-castle-rock-co-20075388/">Baskin-Robbins in Castle Rock, CO 80104</a>
+              	<div class="right">12</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>4833 Front St Ste C<br/>Castle Rock, CO 80104</p>
+	            	<p>(303) 663-1960</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-waipahu-hi-20076201/">Baskin-Robbins in Waipahu, HI 96797</a>
+              	<div class="right">13</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>94-673 Kupuohi St Ste 8104<br/>Waipahu, HI 96797</p>
+	            	<p>(808) 671-7775</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-indianapolis-in-20078126/">Baskin-Robbins in Indianapolis, IN 46260</a>
+              	<div class="right">14</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>1337 W86th St<br/>Indianapolis, IN 46260</p>
+	            	<p>(317) 259-8888</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-paradise-ca-20088242/">Baskin-Robbins in Paradise, CA 95969</a>
+              	<div class="right">15</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>6616 Clark Rd<br/>Paradise, CA 95969</p>
+	            	<p>(530) 872-0310</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-covina-ca-20092262/">Baskin-Robbins in Covina, CA 91724</a>
+              	<div class="right">16</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>1311 N Grand Ave<br/>Covina, CA 91724</p>
+	            	<p>(626) 915-4114</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-citrus-heights-ca-20092477/">Baskin-Robbins in Citrus Heights, CA 95621</a>
+              	<div class="right">17</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>7301 Greenback Ln Bldg C<br/>Citrus Heights, CA 95621</p>
+	            	<p>(916) 722-8993</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-los-angeles-ca-20103568/">Baskin-Robbins in Los Angeles, CA 90008</a>
+              	<div class="right">18</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>4066 S Victoria Ave<br/>Los Angeles, CA 90008</p>
+	            	<p>(323) 299-4014</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-carlsbad-ca-20114153/">Baskin-Robbins in Carlsbad, CA 92008</a>
+              	<div class="right">19</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>2540 El Camino Real Ste D<br/>Carlsbad, CA 92008</p>
+	            	<p>(760) 434-3131</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-fremont-ca-20114266/">Baskin-Robbins in Fremont, CA 94539</a>
+              	<div class="right">20</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>46485 Mission Blvd<br/>Fremont, CA 94539</p>
+	            	<p>(510) 490-6823</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-bothell-wa-20114390/">Baskin-Robbins in Bothell, WA 98021</a>
+              	<div class="right">21</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>22833 Bothell Everett Hwy<br/>Bothell, WA 98021</p>
+	            	<p>(425) 489-3981</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-tulare-ca-20117295/">Baskin-Robbins in Tulare, CA 93274</a>
+              	<div class="right">22</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>1543 Retherford St<br/>Tulare, CA 93274</p>
+	            	<p>(559) 685-5400</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-aberdeen-wa-20119905/">Baskin-Robbins in Aberdeen, WA 98520</a>
+              	<div class="right">23</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>1014 E Wishkah St<br/>Aberdeen, WA 98520</p>
+	            	<p>(360) 533-5040</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-north-hollywood-ca-20125384/">Baskin-Robbins in North Hollywood, CA 91606</a>
+              	<div class="right">24</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>6700 Laurel Canyon Blvd<br/>North Hollywood, CA 91606</p>
+	            	<p>(818) 503-0188</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-cleveland-oh-20126716/">Baskin-Robbins in Cleveland, OH 44120</a>
+              	<div class="right">25</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>16969 Chagrin Blvd<br/>Cleveland, OH 44120</p>
+	            	<p>(216) 491-0611</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-houston-tx-20127461/">Baskin-Robbins in Houston, TX 77034</a>
+              	<div class="right">26</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>1011 Edgebrook Dr<br/>Houston, TX 77034</p>
+	            	<p>(713) 946-1198</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-cleveland-tn-20132685/">Baskin-Robbins in Cleveland, TN 37312</a>
+              	<div class="right">27</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>3455 Keith St NW<br/>Cleveland, TN 37312</p>
+	            	<p>(423) 479-3170</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-portland-or-20247659/">Baskin-Robbins in Portland, OR 97223</a>
+              	<div class="right">28</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>7321 SW Garden Home Rd<br/>Portland, OR 97223</p>
+	            	<p>(503) 245-8907</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-kent-wa-20255680/">Baskin-Robbins in Kent, WA 98030</a>
+              	<div class="right">29</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>25620 102nd Pl SE<br/>Kent, WA 98030</p>
+	            	<p>(253) 859-9510</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-covington-la-20260206/">Baskin-Robbins in Covington, LA 70433</a>
+              	<div class="right">30</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>816 N Highway 190<br/>Covington, LA 70433</p>
+	            	<p>(985) 809-3816</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-agoura-hills-ca-20267618/">Baskin-Robbins in Agoura Hills, CA 91301</a>
+              	<div class="right">31</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>5697 Kanan Rd<br/>Agoura Hills, CA 91301</p>
+	            	<p>(818) 991-9106</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-selma-ca-20283494/">Baskin-Robbins in Selma, CA 93662</a>
+              	<div class="right">32</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>3330 Floral Ave<br/>Selma, CA 93662</p>
+	            	<p>(559) 891-9031</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-vallejo-ca-20293976/">Baskin-Robbins in Vallejo, CA 94589</a>
+              	<div class="right">33</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>5182 Sonoma Blvd<br/>Vallejo, CA 94589</p>
+	            	<p>(707) 647-7059</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-stevenson-ranch-ca-20298635/">Baskin-Robbins in Stevenson Ranch, CA 91381</a>
+              	<div class="right">34</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>25884 The Old Rd<br/>Stevenson Ranch, CA 91381</p>
+	            	<p>(661) 284-1331</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-corvallis-or-20321148/">Baskin-Robbins in Corvallis, OR 97333</a>
+              	<div class="right">35</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>366 SW Washington Ave<br/>Corvallis, OR 97333</p>
+	            	<p>(541) 752-6935</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-torrance-ca-20325180/">Baskin-Robbins in Torrance, CA 90503</a>
+              	<div class="right">36</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>21113 Hawthorne Blvd<br/>Torrance, CA 90503</p>
+	            	<p>(310) 540-2016</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-gardena-ca-20328566/">Baskin-Robbins in Gardena, CA 90248</a>
+              	<div class="right">37</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>1699 W Artesia Blvd<br/>Gardena, CA 90248</p>
+	            	<p>(310) 329-0786</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-albemarle-nc-21273363/">Baskin-Robbins in Albemarle, NC 28001</a>
+              	<div class="right">38</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>720 Nc 24 27 Byp E<br/>Albemarle, NC 28001</p>
+	            	<p>(704) 982-3131</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-albuquerque-nm-21278292/">Baskin-Robbins in Albuquerque, NM 87120</a>
+              	<div class="right">39</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>5241 Ouray Rd NW<br/>Albuquerque, NM 87120</p>
+	            	<p>(505) 831-3831</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-sacramento-ca-21278733/">Baskin-Robbins in Sacramento, CA 95833</a>
+              	<div class="right">40</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>606 W El Camino Ave<br/>Sacramento, CA 95833</p>
+	            	<p>(916) 921-6153</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-grand-blanc-mi-21284099/">Baskin-Robbins in Grand Blanc, MI 48439</a>
+              	<div class="right">41</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>11561 S Saginaw St<br/>Grand Blanc, MI 48439</p>
+	            	<p>(810) 694-0822</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-mobile-al-21286838/">Baskin-Robbins in Mobile, AL 36695</a>
+              	<div class="right">42</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>720 Schillinger Rd S<br/>Mobile, AL 36695</p>
+	            	<p>(251) 635-1555</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-chandler-az-21293562/">Baskin-Robbins in Chandler, AZ 85248</a>
+              	<div class="right">43</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>4960 S Alma School Rd<br/>Chandler, AZ 85248</p>
+	            	<p>(480) 802-2731</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-peoria-il-21295657/">Baskin-Robbins in Peoria, IL 61614</a>
+              	<div class="right">44</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>4125 N Sheridan Rd<br/>Peoria, IL 61614</p>
+	            	<p>(309) 685-1632</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-orem-ut-21304568/">Baskin-Robbins in Orem, UT 84057</a>
+              	<div class="right">45</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>210 N State St<br/>Orem, UT 84057</p>
+	            	<p>(801) 224-0731</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-cathedral-city-ca-21304870/">Baskin-Robbins in Cathedral City, CA 92234</a>
+              	<div class="right">46</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>31375 Date Palm Dr Ste G<br/>Cathedral City, CA 92234</p>
+	            	<p>(760) 324-8188</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-riverside-ca-21304877/">Baskin-Robbins in Riverside, CA 92506</a>
+              	<div class="right">47</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>7024 Magnolia Ave<br/>Riverside, CA 92506</p>
+	            	<p>(951) 682-3131</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-silver-spring-md-21311020/">Baskin-Robbins in Silver Spring, MD 20902</a>
+              	<div class="right">48</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>11437 Georgia Ave<br/>Silver Spring, MD 20902</p>
+	            	<p>(301) 949-0273</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-auburn-ca-21312969/">Baskin-Robbins in Auburn, CA 95603</a>
+              	<div class="right">49</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>13430 Lincoln Way<br/>Auburn, CA 95603</p>
+	            	<p>(530) 823-3161</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-diamond-bar-ca-21314588/">Baskin-Robbins in Diamond Bar, CA 91765</a>
+              	<div class="right">50</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>325 S Diamond Bar Blvd<br/>Diamond Bar, CA 91765</p>
+	            	<p>(909) 861-9315</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-toledo-oh-21317567/">Baskin-Robbins in Toledo, OH 43623</a>
+              	<div class="right">51</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>4015 Secor Rd<br/>Toledo, OH 43623</p>
+	            	<p>(419) 472-1000</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-vacaville-ca-21324034/">Baskin-Robbins in Vacaville, CA 95688</a>
+              	<div class="right">52</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>812 Alamo Dr<br/>Vacaville, CA 95688</p>
+	            	<p>(707) 446-2440</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-baton-rouge-la-21325287/">Baskin-Robbins in Baton Rouge, LA 70816</a>
+              	<div class="right">53</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>2834 S Sherwood Forest Blvd<br/>Baton Rouge, LA 70816</p>
+	            	<p>(225) 291-7606</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-lamirada-ca-21333739/">Baskin-Robbins in Lamirada, CA 90638</a>
+              	<div class="right">54</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>14931 Imperial Hwy<br/>Lamirada, CA 90638</p>
+	            	<p>(562) 944-4818</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-lake-forest-ca-21351676/">Baskin-Robbins in Lake Forest, CA 92630</a>
+              	<div class="right">55</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>23647 El Toro Rd Ste A<br/>Lake Forest, CA 92630</p>
+	            	<p>(949) 770-6000</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-rockford-il-21364060/">Baskin-Robbins in Rockford, IL 61108</a>
+              	<div class="right">56</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>4180 Newburg Rd<br/>Rockford, IL 61108</p>
+	            	<p>(815) 397-6598</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-mansfield-tx-21372345/">Baskin-Robbins in Mansfield, TX 76063</a>
+              	<div class="right">57</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>990 Highway 287 N<br/>Mansfield, TX 76063</p>
+	            	<p>(817) 473-9444</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-santa-ana-ca-21381164/">Baskin-Robbins in Santa Ana, CA 92704</a>
+              	<div class="right">58</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>3770 W Mcfadden Ave<br/>Santa Ana, CA 92704</p>
+	            	<p>(714) 531-3031</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-rancho-cucamonga-ca-21400232/">Baskin-Robbins in Rancho Cucamonga, CA 91730</a>
+              	<div class="right">59</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>7379 Milliken Ave Ste 130<br/>Rancho Cucamonga, CA 91730</p>
+	            	<p>(909) 481-1130</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-brooklyn-ny-21483313/">Baskin-Robbins in Brooklyn, NY 11214</a>
+              	<div class="right">60</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>1976 86th St<br/>Brooklyn, NY 11214</p>
+	            	<p>(718) 449-2759</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-danville-ky-21496011/">Baskin-Robbins in Danville, KY 40422</a>
+              	<div class="right">61</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>464 W Main St<br/>Danville, KY 40422</p>
+	            	<p>(859) 236-4175</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-apple-valley-ca-21536408/">Baskin-Robbins in Apple Valley, CA 92308</a>
+              	<div class="right">62</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>12285 Apple Valley Rd<br/>Apple Valley, CA 92308</p>
+	            	<p>(760) 240-1305</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-clearfield-ut-21540846/">Baskin-Robbins in Clearfield, UT 84015</a>
+              	<div class="right">63</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>435 S State St<br/>Clearfield, UT 84015</p>
+	            	<p>(801) 825-3131</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-las-vegas-nv-21552643/">Baskin-Robbins in Las Vegas, NV 89130</a>
+              	<div class="right">64</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>4906 W Lone Mountain Rd<br/>Las Vegas, NV 89130</p>
+	            	<p>(702) 655-8834</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-salem-or-23093221/">Baskin-Robbins in Salem, OR 97302</a>
+              	<div class="right">65</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>3810 Commercial St SE<br/>Salem, OR 97302</p>
+	            	<p>(503) 363-2326</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-citrus-heights-ca-21579315/">Baskin-Robbins in Citrus Heights, CA 95610</a>
+              	<div class="right">66</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>8215 Auburn Blvd<br/>Citrus Heights, CA 95610</p>
+	            	<p>(916) 723-3133</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-allen-tx-21583824/">Baskin-Robbins in Allen, TX 75002</a>
+              	<div class="right">67</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>1512 E Exchange Pkwy Ste 400<br/>Allen, TX 75002</p>
+	            	<p>(972) 649-6969</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-gilroy-ca-21586625/">Baskin-Robbins in Gilroy, CA 95020</a>
+              	<div class="right">68</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>785 1st St<br/>Gilroy, CA 95020</p>
+	            	<p>(408) 842-8842</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-new-orleans-la-21586693/">Baskin-Robbins in New Orleans, LA 70128</a>
+              	<div class="right">69</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>5961 Bullard Ave<br/>New Orleans, LA 70128</p>
+	            	<p>(504) 246-7035</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-layton-ut-21599906/">Baskin-Robbins in Layton, UT 84041</a>
+              	<div class="right">70</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>1088 E Gentile St<br/>Layton, UT 84041</p>
+	            	<p>(801) 546-3100</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-lakewood-wa-21612351/">Baskin-Robbins in Lakewood, WA 98499</a>
+              	<div class="right">71</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>6125 100th St SW<br/>Lakewood, WA 98499</p>
+	            	<p>(253) 584-1180</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-columbia-tn-21633664/">Baskin-Robbins in Columbia, TN 38401</a>
+              	<div class="right">72</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>1515 S James Campbell Blvd<br/>Columbia, TN 38401</p>
+	            	<p>(931) 388-3181</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-glendora-ca-21647351/">Baskin-Robbins in Glendora, CA 91740</a>
+              	<div class="right">73</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>856 E Route 66<br/>Glendora, CA 91740</p>
+	            	<p>(626) 914-3133</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-edmonds-wa-21663037/">Baskin-Robbins in Edmonds, WA 98026</a>
+              	<div class="right">74</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>23632 Highway 99 Ste I<br/>Edmonds, WA 98026</p>
+	            	<p>(425) 744-1222</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-millbrae-ca-21668528/">Baskin-Robbins in Millbrae, CA 94030</a>
+              	<div class="right">75</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>669 Broadway<br/>Millbrae, CA 94030</p>
+	            	<p>(650) 697-6968</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-tucson-az-21673701/">Baskin-Robbins in Tucson, AZ 85716</a>
+              	<div class="right">76</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>2648 E Speedway Blvd<br/>Tucson, AZ 85716</p>
+	            	<p>(520) 327-6451</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-mckinney-tx-21834246/">Baskin-Robbins in Mckinney, TX 75070</a>
+              	<div class="right">77</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>3001 S Hardin Blvd<br/>Mckinney, TX 75070</p>
+	            	<p>(972) 562-6338</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-woodland-hills-ca-21837027/">Baskin-Robbins in Woodland Hills, CA 91364</a>
+              	<div class="right">78</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>19942 1/2 Ventura Blvd<br/>Woodland Hills, CA 91364</p>
+	            	<p>(818) 346-9152</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/baskin-robbins-pigeon-forge-tn-21903861/">Baskin-Robbins in Pigeon Forge, TN 37863</a>
+              	<div class="right">79</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>3270 Parkway<br/>Pigeon Forge, TN 37863</p>
+	            	<p>(865) 428-1770</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Ice Cream, Smoothies, and Juices
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+      </div>
+   </div>
+
+	</div>
+
+	<div id="right-rail" class="right-column">
+	
+	
+		<div id="httpPremiumAd-BUNR01" class="msad"></div>
+
+<div class="feature-box">
+    <div id="adZone-206325" class="advert-mod"></div>
+</div>
+ 
+
+
+
+
+
+
+
+
+
+
+
+<div class="feature-box">
+  <h2>Our Free Newsletter</h2>
+  <div class="feature-box-section">
+    <p>Get more great insights delivered to you Inbox. Sign up for Bundle's FREE Newsletter!</p>
+    <form id="subscribe-form" action="/services/email-subscribe/" method="POST">
+      <div class="input-wrapper one-line-form">
+        <input type="text" id="id-email" name="email"/>
+      </div>
+      <div class="input-wrapper one-line-form">
+        <input type="text" id="id-zip" name="zip"/>
+        <input type="submit" id="id-submit" name="submit" value="" />
+      </div>
+    </form>
+    <div id="subscribe-status"></div>
+    <a href="/privacy-policy" class="legalese">privacy policy</a>
+  </div>
+</div>
+
+<script>
+  email_subscribe = {
+      init: function() {
+          eventName = 'Newsletter Widget Sign up'
+          actionName = 'Side Rail'
+
+          // trigger analytics event, on view:
+          if (typeof B2.Merchant != "undefined") {
+          	label = 'Merchant Search';
+          } else if (typeof B2.Article == "undefined") {
+            label = 'Content Landing'
+          } else {
+            label = B2.Article.slug;
+          }
+          B2.Tracking.trackEvent(eventName, actionName, label, true)
+
+          // clear email subscribe input when clicked
+          B2.Core.Util.buildDefaultPrefill(
+              $('#id-email'),
+              'Enter email address',
+              'faded'
+          );
+          B2.Core.Util.buildDefaultPrefill(
+              $('#id-zip'),
+              'Enter your ZIP code',
+              'faded'
+          );
+
+          $("#subscribe-form").submit(function(e) {
+              B2.Tracking.trackEvent(eventName, actionName, 'Submitted', true)
+              e.preventDefault();
+              var email = "", zip = "";
+              email = $("#id-email").attr("value");
+              zip = $("#id-zip").attr("value")
+              // make ajax call to fetch csrf token
+              csrfToken = ""
+              setCsrfToken = function(value) {
+                csrfToken = value['csrf_token'];
+
+                // post request to /email-subscribe/ handler
+                $.ajax({
+                    url: "/services/email-subscribe/",
+                    type: "POST",
+                    data: {"source":"right-rail", "email":email, "zip":zip, "csrfmiddlewaretoken":csrfToken},
+                    success: function(response) {
+                        if (response.indexOf('Thanks') == 0) {
+                            $("#id-email").attr("disabled", "disabled");
+                            $("#id-zip").attr("disabled", "disabled");
+                            $("#id-submit").attr("disabled", "disabled");
+                            $("#id-submit").addClass("opacitated");
+                            B2.Tracking.trackEvent(eventName, actionName, 'ResponseSuccess', true)
+                        } else {
+                            B2.Tracking.trackEvent(eventName, actionName, 'ResponseUserError', true)
+                        }
+                        // update the front end if user successfully subscribes
+                        $("#subscribe-status").html(response);
+                        $("#subscribe-status").hide().fadeIn("fast");
+                    },
+                    error: function (response) {
+                        B2.Tracking.trackEvent(eventName, actionName, 'ResponseServerError', true)
+                        $("#subscribe-status").html("We had a server error, and couldn't subscribe you. But please, try again later, thanks!");
+                        $("#subscribe-status").hide().fadeIn("fast");
+                    }
+                });   
+              }
+              $.ajax({
+                url: "/services/fetch-csrf/",
+                type: "POST",
+                async: false,
+                success: setCsrfToken,
+                error: function (response) {
+                  B2.Tracking.trackEvent(eventName, actionName, 'ResponseServerCsrfError', true)
+                  $("#subscribe-status").html("We had a server error, and couldn't subscribe you. But please, try again later, thanks!");
+                  $("#subscribe-status").hide().fadeIn("fast");
+                }
+              })
+              // provide visual feedback to user
+              $("#subscribe-status").html("Sending your request...");
+              $("#subscribe-status").hide().fadeIn("fast");
+          });
+      }
+  };
+  $(document).ready(function(){
+    // init the newsletter signup
+    email_subscribe.init();
+  });
+</script>
+
+
+
+
+
+
+
+<div class="feature-box">
+	<script type='text/javascript'><!--//<![CDATA[
+	   var m3_u = (location.protocol=='https:'?'https://d1.openx.org/ajs.php':'http://d1.openx.org/ajs.php');
+	   var m3_r = Math.floor(Math.random()*99999999999);
+	   if (!document.MAX_used) document.MAX_used = ',';
+	   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+	   document.write ("?zoneid=195919");
+	   document.write ('&amp;cb=' + m3_r);
+	   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+	   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+	   document.write ("&amp;loc=" + escape(window.location));
+	   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+	   if (document.context) document.write ("&context=" + escape(document.context));
+	   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+	   document.write ("'><\/scr"+"ipt>");
+	//]]>--></script><noscript><a href='http://d1.openx.org/ck.php?n=abe41511&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://d1.openx.org/avw.php?zoneid=195919&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=abe41511' border='0' alt='' /></a></noscript>
+</div>
+	
+
+	</div>
+</div>
+
+
+			
+			
+		</div>
+		<!-- end inner site wrap -->
+
+		<div id="site-footer">
+		    <table>
+		        <tr>
+		            <th><img src="/assets/img/footer/sitelinks.png" width="80" height="12"></th>
+		            <th><img src="/assets/img/footer/aboutUs.png" width="80" height="12"></th>
+		            <th><img src="/assets/img/footer/getintouch.png" width="80" height="12"></th>
+		            <th><img src="/assets/img/footer/policy.png" width="105" height="12"></th>
+		            <th colspan="2"><img src="/assets/img/footer/connect.png" width="70" height="12"></th>
+		        </tr>
+		        <tr>
+		            <td><a href="http://www.bundle.com">Home</a></td>
+		            <td><a href="/what-we-do/">What We Do</a></td>
+		            <td><a href="/press/">For the Press</a></td>
+		            <td><a href="/community-policy/">Community Policy</a></td>
+		            <td class="socialicon"><a href="/content/feeds/rss/latestpicks/"><img src="/assets/img/footer/rss.png" width="17" height="17"></a></td>
+		            <td><a href="/content/feeds/rss/latestpicks/">RSS</a></td>
+		        </tr>
+		        <tr>
+		            <td><a href="/supportpage/">Support</a></td>
+		            <td><a href="/partners/">Our Partners</a></td>
+		            <td><a href="/api/">API</a></td>
+		            <td><a href="/security-policy/">Security Policy</a></td>
+		            <td class="socialicon"><a href="http://www.facebook.com/BundleFB" target="_blank"><img src="/assets/img/footer/facebook.png" width="17" height="17"></a></td>
+		            <td><a href="http://www.facebook.com/BundleFB" target="_blank">Facebook</a></td>           
+		        </tr>
+		        <tr>
+		            <td><a href="/mymoney/">My Money</a></td>
+		            <td><a href="/in-the-media/">In the Media</a></td>
+		            <td><a href="/careers/">Careers</a></td>
+		            <td><a href="/privacy-policy/">Privacy Policy</a></td>
+		            <td class="socialicon"><a href="http://twitter.com/#!/bundlehq" target="_blank"><img src="/assets/img/footer/twitter.png" width="17" height="17"></a></td>
+		            <td><a href="http://twitter.com/#!/bundlehq" target="_blank">Twitter</a></td>
+		        </tr>
+		        <tr>
+                	<td><a href="/sitemap/">Site Map</a></td>
+		            <td>&nbsp;</td>
+		            <td><a href="/contact/">Contact Us</a></td>
+		            <td><a href="/terms/">Terms of Use</a></td>
+		            <td class="socialicon"><a href="http://bundlehq.tumblr.com/" target="_blank"><img src="/assets/img/footer/tumblr.png" width="17" height="17"></a></td>
+		            <td><a href="http://bundlehq.tumblr.com/" target="_blank">Tumblr</a></td>
+		        </tr>
+		        <tr>
+		            <td>&nbsp;</td>
+		            <td>&nbsp;</td>
+		            <td>&nbsp;</td>
+		            <td><a href="/photo-credits/">Photo Credits</a></td>
+		            <td class="socialicon"><a href="http://www.stumbleupon.com/url/bundle.com/" target="_blank"><img src="/assets/img/footer/stumbleupon.png" width="17" height="17"></a></td>
+		            <td><a href="http://www.stumbleupon.com/url/bundle.com/" target="_blank">StumbleUpon</a></td>
+		        </tr>
+		        <tr>
+                	<td>&nbsp;</td>
+		            <td>&nbsp;</td>
+		            <td>&nbsp;</td>
+		            <td>&nbsp;</td>
+		            <td class="socialicon"><a href="http://www.flickr.com/photos/bundlehq/" target="_blank"><img src="/assets/img/footer/flickr.png" width="17" height="17"></a></td>
+		            <td><a href="http://www.flickr.com/photos/bundlehq/" target="_blank">Flickr</a></td>
+		        </tr>
+		            <td>&nbsp;</td>
+		            <td>&nbsp;</td>
+		            <td>&nbsp;</td>
+		            <td>&nbsp;</td>
+		            <td class="socialicon">
+		            	<a href="https://plus.google.com/111048521133111927422?prsrc=3" rel="publisher" style="text-decoration:none;">
+		            		<img src="https://ssl.gstatic.com/images/icons/gplus-16.png" alt="" style="border:0;width:16px;height:16px;" width="17" height="17"/>
+		            	</a>
+		            </td>
+		            <td>
+		            	<a href="https://plus.google.com/111048521133111927422?prsrc=3" target="_blank">Google+</a>
+		            </td>
+		        </tr>
+		    </table>    
+		    <table>   
+		        <tr>
+		            <td colspan="2" height="50">&nbsp;</td>
+		        </tr>
+		        <tr>
+		            <td width="50%">
+		                <p><a href="http://www.bundle.com"><img src="/assets/img/footer/bundleLogoWhite.png" width="70" height="25" alt="Bundle"></a></p>
+		                <div class="legalese">
+		                    <p>&copy; 2011 Bundle Corporation. All Rights Reserved</p>
+		                    <p>The trademarks/service marks BUNDLE, Bundle.com and the Bundle logos are the property of Bundle Corporation. 
+		                        All other trademarks displayed on this site are the property of their respective owners.</p>
+		                </div>
+		                <p class="legalese"><a id="made-in-nyc" href="http://nytm.org/made">Bundled in NYC</a> &#9656;</p>
+		            </td>
+		            <td class="partner-logos" colspan="3">
+		                <img src="/assets/img/footer/partnerlogos.png" width="250" height="50" usemap="#partnermap" alt="Partners &amp; Investors">
+		            </td>
+		       </tr>
+		    </table>
+		</div>
+		
+		<!-- image map -->
+		<map id="partnermap" name="partnermap">
+		    <area alt="" coords="1,1,128,31" href="http://money.msn.com/" shape="rect" target="_blank" title="MSN Money" />
+		    <area alt="" coords="130,1,170,31" href="http://www.citigroup.com/" shape="rect" target="_blank" title="Citi" />
+		    <area alt="" coords="172,1,250,31" href="http://www.morningstar.com/" shape="rect" target="_blank" title="Morningstar" />
+		 </map>
+		<!-- end image map -->
+
+	</div>
+	<!-- begin outer site wrap -->
+
+
+	<!-- modal dialog content divs for geolocation -->
+	<div id="geo-detecting" style="display:none;">
+		Detecting current location.
+	</div>
+	<div id="geo-resolved" style="display:none;">
+		Resolved to location coordinates: <span id="geo-coordinates">&nbsp;</span>
+	</div>
+	<div id="geo-error" style="display:none;">
+		Sorry, we could not detect your current location. <span id="error-close">(x)</span>
+	</div>
+
+	<div id="auth-login" style="display:none;">
+		<div class="close">
+			<img src="/assets/img/btn/dismiss.png">
+		</div>
+		<div class="signup-copy">
+			Sign in to rate businesses and get recommendations
+			tailored to your tastes
+		</div>
+
+		<div class="buttons">
+			<a class="sign-in facebook-login" rel="nofollow"
+			href="/auth/social/login/facebook/"><img
+			src="/assets/img/btn/facebook-btn.png"></a>
+			<a class="sign-in foursquare-login" rel="nofollow"
+			href="/auth/social/login/foursquare/"><img
+			src="/assets/img/btn/foursquare-btn.png"></a>
+		</div>
+
+		<div class="disclaimer">
+			Unless you sign in, we can't keep track of your tastes and recommend places to you.
+			Bundle will never post anything to your account without your permission.
+		</div>
+	</div>
+	
+	<div id="simple-auth-login" style="display:none;">
+		<div class="header">
+			<div class="title poll-title"></div>
+			<div class="title sign-in-title">Sign in to get your personal rating</div>
+			<div class="close">
+				<img src="/assets/img/btn/dismiss.png">
+			</div>
+		</div>
+		
+		<div class="body poll-body">
+			<div class="top">
+				<div title="Rated /100" class="star-rating">
+					<div class="inner-star-rating"></div>
+				</div>
+				<H2 class="you">Bundle score for you: <span class="score"></span></H2>
+				<H2 class="everyone">Bundle score for everyone: <span class="score"></span></H2>
+			</div>
+			<div class="bottom  poll-unit"></div>
+		</div>
+		
+		<div class="body sign-in-body">
+			<div class="buttons">
+				<a class="sign-in facebook-login" rel="nofollow"
+				href="/auth/social/login/facebook/"><img
+				src="/assets/img/btn/facebook-btn.png"></a>
+				<a class="sign-in foursquare-login" rel="nofollow"
+				href="/auth/social/login/foursquare/"><img
+				src="/assets/img/btn/foursquare-btn.png"></a>
+				<div class="msg">Nothing will be posted to<br/> your account</div>
+			</div>
+		</div>
+
+		<div class="footer">
+			<input type="button" class="cancel" value="Cancel" />
+		</div>
+	</div>
+  
+	<!-- generic tooltip module -->
+	<div id="tooltip-wrapper"><div id="tooltip-body"></div><div id="tooltip-nub"></div></div><div id="image-tooltip-wrapper"></div>
+
+	<script language="javascript" type="text/javascript">
+		if (typeof B2 == "undefined") { var B2 = {}; }
+		
+		var DEFAULT_SEARCH_TERM = "Search for business name or category";
+		var DEFAULT_SEARCH_LOCATION = "Location (e.g. 10010 or New York, NY)";
+		var skipLocUpdate = false;
+		$(document).ready(function(){
+			B2.Core.init();
+			B2.GeoLocation.HTML5.init();
+			B2.Rec.Auth.init();
+			
+			try{ B2.Common.Advertise.init();}
+			catch(err){ B2.Logger.log('ad unit script not loaded'); }
+		});
+		
+    var _gaq = _gaq || [];
+	  
+    _gaq.push(['_setAccount', 'UA-15170101-1']);
+    _gaq.push(['_setDomainName', '.bundle.com']);
+    _gaq.push(['_trackPageview']);
+    
+
+    (function() {
+        var ga = document.createElement('script');     ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:'   == document.location.protocol ? 'https://ssl'   : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+    
+  
+		
+
+	</script>
+</body>
+</html>

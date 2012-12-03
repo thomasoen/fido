@@ -1,0 +1,2885 @@
+status: 200
+content-length: 90588
+content-location: http://www.bundle.com/merchant/listing/letter-D/dairy-queen-prairie-du-chien-wi-3670120/dairy-queen-manistee-mi-4147044/
+content-type: text/html; charset=utf-8
+vary: Accept-Encoding
+x-bundle-requesttimestamp: t=1354557873224337
+server: Apache/2.2.16 (Win32) mod_wsgi/3.3 Python/2.7.2
+connection: keep-alive
+-content-encoding: gzip
+x-bundle-requestduration: D=125000
+cache-control: public
+date: Mon, 03 Dec 2012 18:04:33 GMT
+x-bundle-server: djbundle-prod-web03-live
+-varied-accept-encoding: gzip, deflate
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+	<link rel="SHORTCUT ICON" href="/assets/favicon.ico" type="image/x-icon" />
+	<title>
+  Business listings: D
+	| Bundle
+</title>
+	<meta name="keywords" content="
+  Bundle helps you discover business Top rated businesses in this area starting with letter: D based on real, transaction data
+" />
+	<meta name="description" content="
+	Bundle helps you discover business Top rated businesses in this area starting with letter: D based on real, transaction data
+" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<link rel="canonical" href="http://www.bundle.com/merchant/listing/letter-D/dairy-queen-prairie-du-chien-wi-3670120/dairy-queen-manistee-mi-4147044/"/>
+	
+	<meta name='robots' content='noindex'>
+	
+	<link rel="stylesheet" type="text/css" href="/assets/css/base.css?v2.1.5150" media="all" />
+	<!--[if IE 7]>
+        <link rel="stylesheet" type="text/css" href="/assets/css/ie7.css?v2.1.5150">
+	<![endif]-->	
+    <!--[if IE 8]>
+        <link rel="stylesheet" type="text/css" href="/assets/css/ie8.css?v2.1.5150">
+    <![endif]-->
+    
+	<script type="text/javascript" src="/assets/js/lib/jquery-1.6.4.min.js?v2.1.5150"></script>
+	
+	<script type="text/javascript" src="/assets/js/lib/jquery.cookie.js?v2.1.5150"></script>
+	
+    
+    <script type="text/javascript" src="/assets/js/lib/jquery.blockUI.min.js"></script>
+	<script type="text/javascript" src="/assets/js/lib/jquery.stickyPanel.min.js"></script>
+	<script type="text/javascript" src="/assets/js/src/core.js?v2.1.5150"></script>
+	<script type="text/javascript" src="/assets/js/src/geolocation/ip-service.js?v2.1.5150"></script>
+    <script type="text/javascript" src="/assets/js/src/geolocation/html5.js?v2.1.5150"></script>
+    <script type="text/javascript" src="/assets/js/src/rec/auth.js?v2.1.5150"></script>
+	<script type="text/javascript" src="/assets/js/src/common/advertise.js?v2.1.5150"></script>
+	<script type="text/javascript" src="http://ads1.msads.net/library/dapmsn.js"></script>
+	
+
+</head>
+<body class="bundle">
+	<script type="text/javascript">
+		// this line stops jquery to log a deprecated warning
+		$(document).ready(function(){ $.event.props = $.event.props.join('|').replace('layerX|layerY|', '').split('|'); });
+	</script>
+	<script type="text/javascript">var _kiq = _kiq || [];</script>
+	<script type="text/javascript" src="//s3.amazonaws.com/ki.js/27211/5ok.js" async="true"></script>
+
+  
+	<!-- begin outer site wrap -->
+	<div id="full-site-wrap">
+	
+		<!-- begin inner site wrap -->
+		<div id="site-wrap">
+			
+			
+			<div id="site-header-wrap">
+				
+
+				<div id="site-header"> 
+					<div id="site-logo"> 
+						<a href="/" title="Bundle"><div class="sprite-common bundle-logo"></div></a>
+						<h3>unbiased, data-driven ratings</h3>
+					</div>
+					
+					<div class="column">
+						<div id="site-search">
+							<div class="search-help">
+								<div class="term-help">Search for (e.g. restaurants or Starbucks)</div>
+								<div class="loc-help">Location (e.g. 10010 or New York, NY)</div>
+							</div>
+							
+							<form id="site-search-form" action="/merchant/search/" method="GET">
+								<input type="text" name="q" value="Search for business name or category" />
+								<strong>near</strong>
+								<input type="text" id="loc" name="loc" value="Location (e.g. 10010 or New York, NY)" />
+								<div id="geo-button" class="geo-unavailable"></div>
+								<!-- <input type="image" name="geo" value="go-geo" class="geo-unavailable" />-->
+								<input type="hidden" id="ac" name="ac" value="" />
+								<input type="submit" name="submit" class="search-button-large" value=""/>
+							</form>
+						</div>
+					</div>
+          <div id="user-wrapper">
+            <div id="not-logged-in" class="signed-out sign-in-link">
+              Sign In
+            </div>
+            <div id="logged-in">
+              <a href="/rec/services/settings/"><div id="user-avatar"></div></a>
+              <span id="user-greeting"><a id="user-name" href="/rec/services/settings/">USER</a></span><br/>
+              <a id="sign-out" href="/auth/logout-new/">sign out</a>
+            </div>
+          </div>
+					
+				</div>
+				
+        
+				<div id="site-nav-bar">
+					<div class="left-column">
+						<a class="my-city-link" href="/guide/city/"><div class="sprite-common home-icon"></div></a><ul><li><a class="my-city-link" href="/guide/city/">MY CITY</a></li></ul>
+					</div>
+					<div class="center-column" style="width: 514px;margin-right:0;">
+						
+							
+  
+    
+							<ul>
+								<li><a class="city-link" href="/merchant/search/?cats=restaurants&s=11">RESTAURANTS</a></li><li><a class="city-link" href="/merchant/search/?cats=bars-and-lounges&s=11">NIGHTLIFE</a></li><li><a class="city-link" href="/merchant/search/?cats=spas&cats=hair-salon&cats=nail-salon">SPA&nbsp;&amp;&nbsp;BEAUTY</a></li><li><a class="city-link" href="/merchant/search/?cats=clothing&cats=shoes&cats=accessories&s=11">SHOPPING</a></li><li><a class="my-categories-link" href="/merchant/categories/">CATEGORIES</a></li><li><a href="/article/">ARTICLES</a></li><li></li>
+							</ul>
+							
+  
+
+						
+					</div>
+				</div>
+        
+
+				
+				<div id="location-bar">
+					
+						<div id="anchor-city"><h6 id="my-city-name">New York,NY</h6>&nbsp(<a id="location-change" href="#change">change</a>)</div>
+					
+					<div id="location-list">
+						<strong>Other Cities:</strong>
+						<ul>
+							<li><a href="/guide/city/new-york-ny/">New York</a> |</li>
+							<li><a href="/guide/city/chicago-il/">Chicago</a> |</li>
+							<li><a href="/guide/city/san-francisco-ca/">San Francisco</a> |</li>
+							<li><a id="location-show-more" href="#more">More</a></li>
+						</ul>
+					</div>
+				</div>
+				<div id="location-more">
+					<h6>Popular Cities</h6>
+		        	<div>
+						<ul>
+							<li><a href="/guide/city/atlanta-ga/">Atlanta</a></li>
+							<li><a href="/guide/city/boston-ma/">Boston</a></li>
+							<li><a href="/guide/city/chicago-il/">Chicago</a></li>
+							<li><a href="/guide/city/dallas-tx/">Dallas</a></li>
+							<li><a href="/guide/city/denver-co/">Denver</a></li>
+							
+							<li><a href="/guide/city/detroit-mi/">Detroit</a></li>
+							<li><a href="/guide/city/houston-tx/">Houston</a></li>
+							<li><a href="/guide/city/los-angeles-ca/">Los Angeles</a></li>
+							<li><a href="/guide/city/miami-fl/">Miami</a></li>
+							<li><a href="/guide/city/minneapolis-mn/">Minneapolis</a></li>
+							
+							<li><a href="/guide/city/new-york-ny/">New York</a></li>
+							<li><a href="/guide/city/orlando-fl/">Orlando</a></li>
+							<li><a href="/guide/city/philadelphia-pa/">Philadelphia</a></li>
+							<li><a href="/guide/city/phoenix-az/">Phoenix</a></li>
+							<li><a href="/guide/city/san-francisco-ca/">San Francisco</a></li>
+							
+							<li><a href="/guide/city/seattle-wa/">Seattle</a></li>
+							<li><a href="/guide/city/tampa-fl/">Tampa Bay</a></li>
+							<li><a href="/guide/city/washington-dc/">Washington DC</a></li>
+						</ul>
+		        	</div>
+			        <div id="location-search" class="input-wrapper one-line-form">
+			          <form id="location-search-form" action="/services/location-search/" method="GET">
+			            Or enter your city or zip code &nbsp;
+			            <input type="text" id="id_location" name="location"/>
+			            <input type="submit" name="submit" value="" />
+			          </form>
+			        </div>
+		        	<div id="location-status" style="display:hidden;"></div>
+				</div>
+				
+			</div>
+			
+			
+			<script type="text/javascript">
+				// if in frame, hide header, execute this as soon as possible. 
+				if(top != self) {
+				    var header = document.getElementById('site-header');
+				    var navBar = document.getElementById('site-nav-bar');
+				    var locationBar = document.getElementById('location-bar');
+				    if(header) { header.style.display='none'; }
+				    if(navBar) { navBar.style.display='none'; }
+				    if(locationBar) { locationBar.style.display='none'; }
+				}
+			</script>
+
+			
+<div id="site-body" class="two-column-page">
+	<div id="content" class="left-column">
+	
+    <!-- Common view: Result Body -->
+    <div class="search-results">
+  		<h1 class="list-view-unit result-view-unit">Business Listings: from Dairy Queen in Prairie Du Chien, WI 53821 to Dairy Queen in Manistee, MI 49660</h1>
+
+      <div class="top-merchants">
+      
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-prairie-du-chien-wi-3670120/">Dairy Queen in Prairie Du Chien, WI 53821</a>
+              	<div class="right">1</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>1212 S Marquette Rd<br/>Prairie Du Chien, WI 53821</p>
+	            	<p>(608) 326-8121</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-washburn-wi-3670580/">Dairy Queen in Washburn, WI 54891</a>
+              	<div class="right">2</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>211 Bayfield St<br/>Washburn, WI 54891</p>
+	            	<p>(715) 373-2343</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-buffalo-mn-3670939/">Dairy Queen in Buffalo, MN 55313</a>
+              	<div class="right">3</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p> E Highway 55<br/>Buffalo, MN 55313</p>
+	            	<p>(763) 682-1761</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-houma-la-3671762/">Dairy Queen in Houma, LA 70360</a>
+              	<div class="right">4</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>1236 Saint Charles St<br/>Houma, LA 70360</p>
+	            	<p>(985) 868-2863</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-plainfield-il-3673827/">Dairy Queen in Plainfield, IL 60586</a>
+              	<div class="right">5</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>15910 S Route 59<br/>Plainfield, IL 60586</p>
+	            	<p>(815) 436-1776</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-caseyville-il-3674879/">Dairy Queen in Caseyville, IL 62232</a>
+              	<div class="right">6</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>2411 Old Country Inn Dr<br/>Caseyville, IL 62232</p>
+	            	<p>(618) 397-3972</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-franklin-tn-3674958/">Dairy Queen in Franklin, TN 37067</a>
+              	<div class="right">7</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>1800 Galleria Blvd Ste 3040<br/>Franklin, TN 37067</p>
+	            	<p>(615) 503-9919</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-seneca-mo-3676198/">Dairy Queen in Seneca, MO 64865</a>
+              	<div class="right">8</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p> Po Box 406<br/>Seneca, MO 64865</p>
+	            	<p>(417) 776-3586</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-kenosha-wi-3676362/">Dairy Queen in Kenosha, WI 53142</a>
+              	<div class="right">9</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>4612 75th St<br/>Kenosha, WI 53142</p>
+	            	<p>(262) 697-9229</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-marionville-mo-3676458/">Dairy Queen in Marionville, MO 65705</a>
+              	<div class="right">10</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>6325 S Rebecca Pl<br/>Marionville, MO 65705</p>
+	            	<p>(417) 258-2103</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-wichita-ks-3677061/">Dairy Queen in Wichita, KS 67226</a>
+              	<div class="right">11</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>3248 N Rock Rd<br/>Wichita, KS 67226</p>
+	            	<p>(316) 636-4563</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-ellsworth-ks-3677102/">Dairy Queen in Ellsworth, KS 67439</a>
+              	<div class="right">12</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>1408 Foster Rd<br/>Ellsworth, KS 67439</p>
+	            	<p>(785) 472-4104</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-saint-petersburg-fl-3679803/">Dairy Queen in Saint Petersburg, FL 33710</a>
+              	<div class="right">13</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>3101 66th St N<br/>Saint Petersburg, FL 33710</p>
+	            	<p>(727) 343-8424</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-edgewood-tx-3680765/">Dairy Queen in Edgewood, TX 75117</a>
+              	<div class="right">14</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>100 W Pine St<br/>Edgewood, TX 75117</p>
+	            	<p>(903) 896-1880</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-winnsboro-tx-3681214/">Dairy Queen in Winnsboro, TX 75494</a>
+              	<div class="right">15</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>700 S Main St<br/>Winnsboro, TX 75494</p>
+	            	<p>(903) 342-6969</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-athens-tx-3681349/">Dairy Queen in Athens, TX 75751</a>
+              	<div class="right">16</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>617 W Corsicana St<br/>Athens, TX 75751</p>
+	            	<p>(903) 675-2808</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-lockhart-tx-3684061/">Dairy Queen in Lockhart, TX 78644</a>
+              	<div class="right">17</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>1125 S Colorado St<br/>Lockhart, TX 78644</p>
+	            	<p>(512) 376-4817</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-plains-tx-3684600/">Dairy Queen in Plains, TX 79355</a>
+              	<div class="right">18</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>1105 Brownfield Hwy<br/>Plains, TX 79355</p>
+	            	<p>(806) 456-7188</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-elyria-oh-3716980/">Dairy Queen in Elyria, OH 44035</a>
+              	<div class="right">19</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>641 Hilliard Rd<br/>Elyria, OH 44035</p>
+	            	<p>(440) 365-4411</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-west-haven-ct-3765774/">Dairy Queen in West Haven, CT 06516</a>
+              	<div class="right">20</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>64 Boston Post Rd<br/>West Haven, CT 06516</p>
+	            	<p>(203) 934-5483</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-sykesville-md-3768990/">Dairy Queen in Sykesville, MD 21784</a>
+              	<div class="right">21</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>2030 Liberty Rd Ste 11<br/>Sykesville, MD 21784</p>
+	            	<p>(410) 549-5500</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-macon-ga-3770807/">Dairy Queen in Macon, GA 31211</a>
+              	<div class="right">22</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>1185 Gray Hwy<br/>Macon, GA 31211</p>
+	            	<p>(478) 745-3075</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-mukwonago-wi-3774960/">Dairy Queen in Mukwonago, WI 53149</a>
+              	<div class="right">23</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>215 Bay View Rd<br/>Mukwonago, WI 53149</p>
+	            	<p>(262) 363-9072</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-champlin-mn-3775342/">Dairy Queen in Champlin, MN 55316</a>
+              	<div class="right">24</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>11200 Aquila Dr N<br/>Champlin, MN 55316</p>
+	            	<p>(763) 427-8441</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-louisiana-mo-3776698/">Dairy Queen in Louisiana, MO 63353</a>
+              	<div class="right">25</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>711 Georgia St<br/>Louisiana, MO 63353</p>
+	            	<p>(573) 754-5311</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-orland-park-il-3776920/">Dairy Queen in Orland Park, IL 60462</a>
+              	<div class="right">26</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>14460 S La Grange Rd<br/>Orland Park, IL 60462</p>
+	            	<p>(708) 349-1922</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-papillion-ne-3777084/">Dairy Queen in Papillion, NE 68046</a>
+              	<div class="right">27</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>114 & West Dodge Rd<br/>Papillion, NE 68046</p>
+	            	<p>(402) 333-4623</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-wayne-ne-3777151/">Dairy Queen in Wayne, NE 68787</a>
+              	<div class="right">28</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>708 Main St<br/>Wayne, NE 68787</p>
+	            	<p>(402) 375-1404</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-cuero-tx-3778852/">Dairy Queen in Cuero, TX 77954</a>
+              	<div class="right">29</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>802 N Esplanade St<br/>Cuero, TX 77954</p>
+	            	<p>(361) 275-2396</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-aberdeen-wa-3783791/">Dairy Queen in Aberdeen, WA 98520</a>
+              	<div class="right">30</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>1800 Simpson Ave<br/>Aberdeen, WA 98520</p>
+	            	<p>(360) 532-9410</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-lincroft-nj-3784950/">Dairy Queen in Lincroft, NJ 07738</a>
+              	<div class="right">31</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p> Newman Springs Rd<br/>Lincroft, NJ 07738</p>
+	            	<p>(732) 747-4569</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-trenton-nj-3785104/">Dairy Queen in Trenton, NJ 08610</a>
+              	<div class="right">32</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>634 Arena Dr Ste 101<br/>Trenton, NJ 08610</p>
+	            	<p>(609) 888-1003</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-pennsburg-pa-3786380/">Dairy Queen in Pennsburg, PA 18073</a>
+              	<div class="right">33</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>702 Main St<br/>Pennsburg, PA 18073</p>
+	            	<p>(215) 679-7577</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-hallowell-me-3994486/">Dairy Queen in Hallowell, ME 04347</a>
+              	<div class="right">34</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>2 Water St<br/>Hallowell, ME 04347</p>
+	            	<p>(207) 623-1523</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-lakeville-mn-3995243/">Dairy Queen in Lakeville, MN 55044</a>
+              	<div class="right">35</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>10950 175th Ct W<br/>Lakeville, MN 55044</p>
+	            	<p>(952) 892-5001</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-austin-tx-3999048/">Dairy Queen in Austin, TX 78757</a>
+              	<div class="right">36</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>8300 Burnet Rd<br/>Austin, TX 78757</p>
+	            	<p>(512) 454-7246</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-kannapolis-nc-4006673/">Dairy Queen in Kannapolis, NC 28083</a>
+              	<div class="right">37</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>1762 S Cannon Blvd<br/>Kannapolis, NC 28083</p>
+	            	<p>(704) 932-5102</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-lexington-ky-4007917/">Dairy Queen in Lexington, KY 40511</a>
+              	<div class="right">38</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>464 W New Circle Rd<br/>Lexington, KY 40511</p>
+	            	<p>(859) 258-9808</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-newark-oh-4008276/">Dairy Queen in Newark, OH 43055</a>
+              	<div class="right">39</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>1775 N21st St<br/>Newark, OH 43055</p>
+	            	<p>(740) 366-6210</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-northern-cambria-pa-4009889/">Dairy Queen in Northern Cambria, PA 15714</a>
+              	<div class="right">40</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>3028 Bigler Ave<br/>Northern Cambria, PA 15714</p>
+	            	<p>(814) 948-7461</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-morris-il-4010043/">Dairy Queen in Morris, IL 60450</a>
+              	<div class="right">41</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>1243 N Division St<br/>Morris, IL 60450</p>
+	            	<p>(815) 942-3434</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-pasadena-tx-4011575/">Dairy Queen in Pasadena, TX 77504</a>
+              	<div class="right">42</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>3801 Shaver St<br/>Pasadena, TX 77504</p>
+	            	<p>(713) 943-9969</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-greenwood-village-co-4011830/">Dairy Queen in Greenwood Village, CO 80111</a>
+              	<div class="right">43</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>4650 S Yosemite St<br/>Greenwood Village, CO 80111</p>
+	            	<p>(303) 850-9151</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-la-plata-md-4015583/">Dairy Queen in La Plata, MD 20646</a>
+              	<div class="right">44</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>22 Shining Willow Way<br/>La Plata, MD 20646</p>
+	            	<p>(301) 934-8740</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-louisville-ky-4020229/">Dairy Queen in Louisville, KY 40208</a>
+              	<div class="right">45</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>611 Winkler Ave<br/>Louisville, KY 40208</p>
+	            	<p>(502) 637-3186</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-alma-ga-4029615/">Dairy Queen in Alma, GA 31510</a>
+              	<div class="right">46</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>202 N Pierce St<br/>Alma, GA 31510</p>
+	            	<p>(912) 632-6515</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-decatur-ga-4032338/">Dairy Queen in Decatur, GA 30033</a>
+              	<div class="right">47</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>2212 Lawrenceville Hwy<br/>Decatur, GA 30033</p>
+	            	<p>(404) 636-4737</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-davie-fl-4033957/">Dairy Queen in Davie, FL 33325</a>
+              	<div class="right">48</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>13684 W State Road 84<br/>Davie, FL 33325</p>
+	            	<p>(954) 723-0504</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-bowling-green-oh-4036502/">Dairy Queen in Bowling Green, OH 43402</a>
+              	<div class="right">49</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>434 E Wooster St<br/>Bowling Green, OH 43402</p>
+	            	<p>(419) 352-8042</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-florissant-mo-4038432/">Dairy Queen in Florissant, MO 63033</a>
+              	<div class="right">50</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>2678 N Us Highway 67<br/>Florissant, MO 63033</p>
+	            	<p>(314) 837-5655</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-old-hickory-tn-4039187/">Dairy Queen in Old Hickory, TN 37138</a>
+              	<div class="right">51</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>1508 Robinson Rd<br/>Old Hickory, TN 37138</p>
+	            	<p>(615) 847-8040</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-lewisville-tx-4039719/">Dairy Queen in Lewisville, TX 75067</a>
+              	<div class="right">52</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>2401 S Stemmons Fwy<br/>Lewisville, TX 75067</p>
+	            	<p>(972) 459-9298</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-bastrop-tx-4040185/">Dairy Queen in Bastrop, TX 78602</a>
+              	<div class="right">53</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>112 Highway 71 W<br/>Bastrop, TX 78602</p>
+	            	<p>(512) 321-3945</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-beattyville-ky-4043701/">Dairy Queen in Beattyville, KY 41311</a>
+              	<div class="right">54</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>22 Big Hill Dr<br/>Beattyville, KY 41311</p>
+	            	<p>(606) 464-3242</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-atlanta-ga-4044506/">Dairy Queen in Atlanta, GA 30346</a>
+              	<div class="right">55</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>4400 Ashford Dunwoody Rd NE Ste 1311<br/>Atlanta, GA 30346</p>
+	            	<p>(678) 320-0880</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-cleveland-oh-4046604/">Dairy Queen in Cleveland, OH 44143</a>
+              	<div class="right">56</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>27043 Chardon Rd<br/>Cleveland, OH 44143</p>
+	            	<p>(440) 585-1457</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-wilmington-oh-4046715/">Dairy Queen in Wilmington, OH 45177</a>
+              	<div class="right">57</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>59 Gano Rd<br/>Wilmington, OH 45177</p>
+	            	<p>(937) 382-7198</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-royal-oak-mi-4046897/">Dairy Queen in Royal Oak, MI 48073</a>
+              	<div class="right">58</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>3201 Rochester Rd<br/>Royal Oak, MI 48073</p>
+	            	<p>(248) 589-2422</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-addison-il-4048165/">Dairy Queen in Addison, IL 60101</a>
+              	<div class="right">59</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>709 W Lake St Ste B<br/>Addison, IL 60101</p>
+	            	<p>(630) 543-2121</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-south-bend-in-4049164/">Dairy Queen in South Bend, IN 46613</a>
+              	<div class="right">60</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>1847 Lincoln Way E<br/>South Bend, IN 46613</p>
+	            	<p>(574) 287-3952</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-new-haven-in-4049291/">Dairy Queen in New Haven, IN 46774</a>
+              	<div class="right">61</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>1410 State Road 930 E<br/>New Haven, IN 46774</p>
+	            	<p>(260) 493-1030</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-marine-city-mi-4050491/">Dairy Queen in Marine City, MI 48039</a>
+              	<div class="right">62</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>236 Fairbanks St<br/>Marine City, MI 48039</p>
+	            	<p>(810) 765-5096</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-saint-clairsville-oh-4057475/">Dairy Queen in Saint Clairsville, OH 43950</a>
+              	<div class="right">63</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>178 E Main St<br/>Saint Clairsville, OH 43950</p>
+	            	<p>(740) 695-1360</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-rugby-nd-4060904/">Dairy Queen in Rugby, ND 58368</a>
+              	<div class="right">64</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>101 Highway 2 SE<br/>Rugby, ND 58368</p>
+	            	<p>(701) 776-6233</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-henry-il-4065473/">Dairy Queen in Henry, IL 61537</a>
+              	<div class="right">65</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>314 Edward St<br/>Henry, IL 61537</p>
+	            	<p>(309) 364-3100</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-cullman-al-4067517/">Dairy Queen in Cullman, AL 35055</a>
+              	<div class="right">66</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>410 2nd Ave NW<br/>Cullman, AL 35055</p>
+	            	<p>(256) 734-8358</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-raleigh-nc-4074017/">Dairy Queen in Raleigh, NC 27617</a>
+              	<div class="right">67</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>8321 Brier Creek Pkwy<br/>Raleigh, NC 27617</p>
+	            	<p>(919) 484-2230</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-tishomingo-ok-4074887/">Dairy Queen in Tishomingo, OK 73460</a>
+              	<div class="right">68</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>404 W Main St<br/>Tishomingo, OK 73460</p>
+	            	<p>(580) 371-2366</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-rhome-tx-4078275/">Dairy Queen in Rhome, TX 76078</a>
+              	<div class="right">69</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>101 S Us Hwy 287<br/>Rhome, TX 76078</p>
+	            	<p>(817) 636-2665</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-poteet-tx-4081409/">Dairy Queen in Poteet, TX 78065</a>
+              	<div class="right">70</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>9438 N State Highway 16<br/>Poteet, TX 78065</p>
+	            	<p>(830) 742-3804</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-yorktown-tx-4081544/">Dairy Queen in Yorktown, TX 78164</a>
+              	<div class="right">71</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>510 W Main St<br/>Yorktown, TX 78164</p>
+	            	<p>(361) 564-3300</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-springfield-mo-4121651/">Dairy Queen in Springfield, MO 65807</a>
+              	<div class="right">72</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>4150 S Campbell Ave<br/>Springfield, MO 65807</p>
+	            	<p>(417) 886-2253</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-hilliard-oh-4127341/">Dairy Queen in Hilliard, OH 43026</a>
+              	<div class="right">73</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>3900 Main St<br/>Hilliard, OH 43026</p>
+	            	<p>(614) 876-4102</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-mountain-view-ca-4130356/">Dairy Queen in Mountain View, CA 94040</a>
+              	<div class="right">74</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>500 Showers Dr<br/>Mountain View, CA 94040</p>
+	            	<p>(650) 941-1371</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-northbrook-il-4137957/">Dairy Queen in Northbrook, IL 60062</a>
+              	<div class="right">75</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>2770 Dundee Rd<br/>Northbrook, IL 60062</p>
+	            	<p>(847) 498-2571</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-wellington-oh-4142336/">Dairy Queen in Wellington, OH 44090</a>
+              	<div class="right">76</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>504 S Main St<br/>Wellington, OH 44090</p>
+	            	<p>(440) 647-4741</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-middlebury-in-4144343/">Dairy Queen in Middlebury, IN 46540</a>
+              	<div class="right">77</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>416 N Main St<br/>Middlebury, IN 46540</p>
+	            	<p>(574) 825-5222</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-lafayette-in-4144996/">Dairy Queen in Lafayette, IN 47909</a>
+              	<div class="right">78</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>2831 Us Highway 231 S<br/>Lafayette, IN 47909</p>
+	            	<p>(765) 471-7727</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+          <div class="feature-box">
+              <h2>
+              	<a href="/merchant/detail/dairy-queen-manistee-mi-4147044/">Dairy Queen in Manistee, MI 49660</a>
+              	<div class="right">79</div>
+              </h2>
+            <div class="feature-box-section">
+            	<div class="left">
+	            	<p>376 1st St<br/>Manistee, MI 49660</p>
+	            	<p>(231) 723-4382</p>
+                
+                
+	            	<p class="foot"></p>
+            	</div>
+              
+            	<div class="right">
+	            	<div class="rounded-callout">
+                  <div class="tags">
+                  
+                    Fast Food
+
+                    
+                  
+                  </div>
+                </div>
+            	</div>
+              
+            </div>
+          </div>
+      
+      </div>
+   </div>
+
+	</div>
+
+	<div id="right-rail" class="right-column">
+	
+	
+		<div id="httpPremiumAd-BUNR01" class="msad"></div>
+
+<div class="feature-box">
+    <div id="adZone-206325" class="advert-mod"></div>
+</div>
+ 
+
+
+
+
+
+
+
+
+
+
+
+<div class="feature-box">
+  <h2>Our Free Newsletter</h2>
+  <div class="feature-box-section">
+    <p>Get more great insights delivered to you Inbox. Sign up for Bundle's FREE Newsletter!</p>
+    <form id="subscribe-form" action="/services/email-subscribe/" method="POST">
+      <div class="input-wrapper one-line-form">
+        <input type="text" id="id-email" name="email"/>
+      </div>
+      <div class="input-wrapper one-line-form">
+        <input type="text" id="id-zip" name="zip"/>
+        <input type="submit" id="id-submit" name="submit" value="" />
+      </div>
+    </form>
+    <div id="subscribe-status"></div>
+    <a href="/privacy-policy" class="legalese">privacy policy</a>
+  </div>
+</div>
+
+<script>
+  email_subscribe = {
+      init: function() {
+          eventName = 'Newsletter Widget Sign up'
+          actionName = 'Side Rail'
+
+          // trigger analytics event, on view:
+          if (typeof B2.Merchant != "undefined") {
+          	label = 'Merchant Search';
+          } else if (typeof B2.Article == "undefined") {
+            label = 'Content Landing'
+          } else {
+            label = B2.Article.slug;
+          }
+          B2.Tracking.trackEvent(eventName, actionName, label, true)
+
+          // clear email subscribe input when clicked
+          B2.Core.Util.buildDefaultPrefill(
+              $('#id-email'),
+              'Enter email address',
+              'faded'
+          );
+          B2.Core.Util.buildDefaultPrefill(
+              $('#id-zip'),
+              'Enter your ZIP code',
+              'faded'
+          );
+
+          $("#subscribe-form").submit(function(e) {
+              B2.Tracking.trackEvent(eventName, actionName, 'Submitted', true)
+              e.preventDefault();
+              var email = "", zip = "";
+              email = $("#id-email").attr("value");
+              zip = $("#id-zip").attr("value")
+              // make ajax call to fetch csrf token
+              csrfToken = ""
+              setCsrfToken = function(value) {
+                csrfToken = value['csrf_token'];
+
+                // post request to /email-subscribe/ handler
+                $.ajax({
+                    url: "/services/email-subscribe/",
+                    type: "POST",
+                    data: {"source":"right-rail", "email":email, "zip":zip, "csrfmiddlewaretoken":csrfToken},
+                    success: function(response) {
+                        if (response.indexOf('Thanks') == 0) {
+                            $("#id-email").attr("disabled", "disabled");
+                            $("#id-zip").attr("disabled", "disabled");
+                            $("#id-submit").attr("disabled", "disabled");
+                            $("#id-submit").addClass("opacitated");
+                            B2.Tracking.trackEvent(eventName, actionName, 'ResponseSuccess', true)
+                        } else {
+                            B2.Tracking.trackEvent(eventName, actionName, 'ResponseUserError', true)
+                        }
+                        // update the front end if user successfully subscribes
+                        $("#subscribe-status").html(response);
+                        $("#subscribe-status").hide().fadeIn("fast");
+                    },
+                    error: function (response) {
+                        B2.Tracking.trackEvent(eventName, actionName, 'ResponseServerError', true)
+                        $("#subscribe-status").html("We had a server error, and couldn't subscribe you. But please, try again later, thanks!");
+                        $("#subscribe-status").hide().fadeIn("fast");
+                    }
+                });   
+              }
+              $.ajax({
+                url: "/services/fetch-csrf/",
+                type: "POST",
+                async: false,
+                success: setCsrfToken,
+                error: function (response) {
+                  B2.Tracking.trackEvent(eventName, actionName, 'ResponseServerCsrfError', true)
+                  $("#subscribe-status").html("We had a server error, and couldn't subscribe you. But please, try again later, thanks!");
+                  $("#subscribe-status").hide().fadeIn("fast");
+                }
+              })
+              // provide visual feedback to user
+              $("#subscribe-status").html("Sending your request...");
+              $("#subscribe-status").hide().fadeIn("fast");
+          });
+      }
+  };
+  $(document).ready(function(){
+    // init the newsletter signup
+    email_subscribe.init();
+  });
+</script>
+
+
+
+
+
+
+
+<div class="feature-box">
+	<script type='text/javascript'><!--//<![CDATA[
+	   var m3_u = (location.protocol=='https:'?'https://d1.openx.org/ajs.php':'http://d1.openx.org/ajs.php');
+	   var m3_r = Math.floor(Math.random()*99999999999);
+	   if (!document.MAX_used) document.MAX_used = ',';
+	   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+	   document.write ("?zoneid=195919");
+	   document.write ('&amp;cb=' + m3_r);
+	   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+	   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+	   document.write ("&amp;loc=" + escape(window.location));
+	   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+	   if (document.context) document.write ("&context=" + escape(document.context));
+	   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+	   document.write ("'><\/scr"+"ipt>");
+	//]]>--></script><noscript><a href='http://d1.openx.org/ck.php?n=abe41511&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://d1.openx.org/avw.php?zoneid=195919&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=abe41511' border='0' alt='' /></a></noscript>
+</div>
+	
+
+	</div>
+</div>
+
+
+			
+			
+		</div>
+		<!-- end inner site wrap -->
+
+		<div id="site-footer">
+		    <table>
+		        <tr>
+		            <th><img src="/assets/img/footer/sitelinks.png" width="80" height="12"></th>
+		            <th><img src="/assets/img/footer/aboutUs.png" width="80" height="12"></th>
+		            <th><img src="/assets/img/footer/getintouch.png" width="80" height="12"></th>
+		            <th><img src="/assets/img/footer/policy.png" width="105" height="12"></th>
+		            <th colspan="2"><img src="/assets/img/footer/connect.png" width="70" height="12"></th>
+		        </tr>
+		        <tr>
+		            <td><a href="http://www.bundle.com">Home</a></td>
+		            <td><a href="/what-we-do/">What We Do</a></td>
+		            <td><a href="/press/">For the Press</a></td>
+		            <td><a href="/community-policy/">Community Policy</a></td>
+		            <td class="socialicon"><a href="/content/feeds/rss/latestpicks/"><img src="/assets/img/footer/rss.png" width="17" height="17"></a></td>
+		            <td><a href="/content/feeds/rss/latestpicks/">RSS</a></td>
+		        </tr>
+		        <tr>
+		            <td><a href="/supportpage/">Support</a></td>
+		            <td><a href="/partners/">Our Partners</a></td>
+		            <td><a href="/api/">API</a></td>
+		            <td><a href="/security-policy/">Security Policy</a></td>
+		            <td class="socialicon"><a href="http://www.facebook.com/BundleFB" target="_blank"><img src="/assets/img/footer/facebook.png" width="17" height="17"></a></td>
+		            <td><a href="http://www.facebook.com/BundleFB" target="_blank">Facebook</a></td>           
+		        </tr>
+		        <tr>
+		            <td><a href="/mymoney/">My Money</a></td>
+		            <td><a href="/in-the-media/">In the Media</a></td>
+		            <td><a href="/careers/">Careers</a></td>
+		            <td><a href="/privacy-policy/">Privacy Policy</a></td>
+		            <td class="socialicon"><a href="http://twitter.com/#!/bundlehq" target="_blank"><img src="/assets/img/footer/twitter.png" width="17" height="17"></a></td>
+		            <td><a href="http://twitter.com/#!/bundlehq" target="_blank">Twitter</a></td>
+		        </tr>
+		        <tr>
+                	<td><a href="/sitemap/">Site Map</a></td>
+		            <td>&nbsp;</td>
+		            <td><a href="/contact/">Contact Us</a></td>
+		            <td><a href="/terms/">Terms of Use</a></td>
+		            <td class="socialicon"><a href="http://bundlehq.tumblr.com/" target="_blank"><img src="/assets/img/footer/tumblr.png" width="17" height="17"></a></td>
+		            <td><a href="http://bundlehq.tumblr.com/" target="_blank">Tumblr</a></td>
+		        </tr>
+		        <tr>
+		            <td>&nbsp;</td>
+		            <td>&nbsp;</td>
+		            <td>&nbsp;</td>
+		            <td><a href="/photo-credits/">Photo Credits</a></td>
+		            <td class="socialicon"><a href="http://www.stumbleupon.com/url/bundle.com/" target="_blank"><img src="/assets/img/footer/stumbleupon.png" width="17" height="17"></a></td>
+		            <td><a href="http://www.stumbleupon.com/url/bundle.com/" target="_blank">StumbleUpon</a></td>
+		        </tr>
+		        <tr>
+                	<td>&nbsp;</td>
+		            <td>&nbsp;</td>
+		            <td>&nbsp;</td>
+		            <td>&nbsp;</td>
+		            <td class="socialicon"><a href="http://www.flickr.com/photos/bundlehq/" target="_blank"><img src="/assets/img/footer/flickr.png" width="17" height="17"></a></td>
+		            <td><a href="http://www.flickr.com/photos/bundlehq/" target="_blank">Flickr</a></td>
+		        </tr>
+		            <td>&nbsp;</td>
+		            <td>&nbsp;</td>
+		            <td>&nbsp;</td>
+		            <td>&nbsp;</td>
+		            <td class="socialicon">
+		            	<a href="https://plus.google.com/111048521133111927422?prsrc=3" rel="publisher" style="text-decoration:none;">
+		            		<img src="https://ssl.gstatic.com/images/icons/gplus-16.png" alt="" style="border:0;width:16px;height:16px;" width="17" height="17"/>
+		            	</a>
+		            </td>
+		            <td>
+		            	<a href="https://plus.google.com/111048521133111927422?prsrc=3" target="_blank">Google+</a>
+		            </td>
+		        </tr>
+		    </table>    
+		    <table>   
+		        <tr>
+		            <td colspan="2" height="50">&nbsp;</td>
+		        </tr>
+		        <tr>
+		            <td width="50%">
+		                <p><a href="http://www.bundle.com"><img src="/assets/img/footer/bundleLogoWhite.png" width="70" height="25" alt="Bundle"></a></p>
+		                <div class="legalese">
+		                    <p>&copy; 2011 Bundle Corporation. All Rights Reserved</p>
+		                    <p>The trademarks/service marks BUNDLE, Bundle.com and the Bundle logos are the property of Bundle Corporation. 
+		                        All other trademarks displayed on this site are the property of their respective owners.</p>
+		                </div>
+		                <p class="legalese"><a id="made-in-nyc" href="http://nytm.org/made">Bundled in NYC</a> &#9656;</p>
+		            </td>
+		            <td class="partner-logos" colspan="3">
+		                <img src="/assets/img/footer/partnerlogos.png" width="250" height="50" usemap="#partnermap" alt="Partners &amp; Investors">
+		            </td>
+		       </tr>
+		    </table>
+		</div>
+		
+		<!-- image map -->
+		<map id="partnermap" name="partnermap">
+		    <area alt="" coords="1,1,128,31" href="http://money.msn.com/" shape="rect" target="_blank" title="MSN Money" />
+		    <area alt="" coords="130,1,170,31" href="http://www.citigroup.com/" shape="rect" target="_blank" title="Citi" />
+		    <area alt="" coords="172,1,250,31" href="http://www.morningstar.com/" shape="rect" target="_blank" title="Morningstar" />
+		 </map>
+		<!-- end image map -->
+
+	</div>
+	<!-- begin outer site wrap -->
+
+
+	<!-- modal dialog content divs for geolocation -->
+	<div id="geo-detecting" style="display:none;">
+		Detecting current location.
+	</div>
+	<div id="geo-resolved" style="display:none;">
+		Resolved to location coordinates: <span id="geo-coordinates">&nbsp;</span>
+	</div>
+	<div id="geo-error" style="display:none;">
+		Sorry, we could not detect your current location. <span id="error-close">(x)</span>
+	</div>
+
+	<div id="auth-login" style="display:none;">
+		<div class="close">
+			<img src="/assets/img/btn/dismiss.png">
+		</div>
+		<div class="signup-copy">
+			Sign in to rate businesses and get recommendations
+			tailored to your tastes
+		</div>
+
+		<div class="buttons">
+			<a class="sign-in facebook-login" rel="nofollow"
+			href="/auth/social/login/facebook/"><img
+			src="/assets/img/btn/facebook-btn.png"></a>
+			<a class="sign-in foursquare-login" rel="nofollow"
+			href="/auth/social/login/foursquare/"><img
+			src="/assets/img/btn/foursquare-btn.png"></a>
+		</div>
+
+		<div class="disclaimer">
+			Unless you sign in, we can't keep track of your tastes and recommend places to you.
+			Bundle will never post anything to your account without your permission.
+		</div>
+	</div>
+	
+	<div id="simple-auth-login" style="display:none;">
+		<div class="header">
+			<div class="title poll-title"></div>
+			<div class="title sign-in-title">Sign in to get your personal rating</div>
+			<div class="close">
+				<img src="/assets/img/btn/dismiss.png">
+			</div>
+		</div>
+		
+		<div class="body poll-body">
+			<div class="top">
+				<div title="Rated /100" class="star-rating">
+					<div class="inner-star-rating"></div>
+				</div>
+				<H2 class="you">Bundle score for you: <span class="score"></span></H2>
+				<H2 class="everyone">Bundle score for everyone: <span class="score"></span></H2>
+			</div>
+			<div class="bottom  poll-unit"></div>
+		</div>
+		
+		<div class="body sign-in-body">
+			<div class="buttons">
+				<a class="sign-in facebook-login" rel="nofollow"
+				href="/auth/social/login/facebook/"><img
+				src="/assets/img/btn/facebook-btn.png"></a>
+				<a class="sign-in foursquare-login" rel="nofollow"
+				href="/auth/social/login/foursquare/"><img
+				src="/assets/img/btn/foursquare-btn.png"></a>
+				<div class="msg">Nothing will be posted to<br/> your account</div>
+			</div>
+		</div>
+
+		<div class="footer">
+			<input type="button" class="cancel" value="Cancel" />
+		</div>
+	</div>
+  
+	<!-- generic tooltip module -->
+	<div id="tooltip-wrapper"><div id="tooltip-body"></div><div id="tooltip-nub"></div></div><div id="image-tooltip-wrapper"></div>
+
+	<script language="javascript" type="text/javascript">
+		if (typeof B2 == "undefined") { var B2 = {}; }
+		
+		var DEFAULT_SEARCH_TERM = "Search for business name or category";
+		var DEFAULT_SEARCH_LOCATION = "Location (e.g. 10010 or New York, NY)";
+		var skipLocUpdate = false;
+		$(document).ready(function(){
+			B2.Core.init();
+			B2.GeoLocation.HTML5.init();
+			B2.Rec.Auth.init();
+			
+			try{ B2.Common.Advertise.init();}
+			catch(err){ B2.Logger.log('ad unit script not loaded'); }
+		});
+		
+    var _gaq = _gaq || [];
+	  
+    _gaq.push(['_setAccount', 'UA-15170101-1']);
+    _gaq.push(['_setDomainName', '.bundle.com']);
+    _gaq.push(['_trackPageview']);
+    
+
+    (function() {
+        var ga = document.createElement('script');     ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:'   == document.location.protocol ? 'https://ssl'   : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+    
+  
+		
+
+	</script>
+</body>
+</html>

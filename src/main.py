@@ -2,8 +2,7 @@
 import processing
 from multiprocessing import Process, Queue
 
-URLS_FILE_PATH = 'all_urls.txt'
-
+URLS_LOCATION = 'all_urls.txt'
 
 def main():
     urlsQueue = Queue(1000)
@@ -11,7 +10,7 @@ def main():
 
     # 1 feeder should be enough
     urlFeederProcess = Process(target=processing.url_feeder_process,
-        args=(URLS_FILE_PATH, urlsQueue))
+        args=(URLS_LOCATION, urlsQueue))
 
     # Default size in processing module is 10 per core/processor
     processingPool = processing.WorkerPool(processing.url_fetching_process,

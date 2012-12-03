@@ -38,8 +38,9 @@ def _create_process_logger(name):
     return logger
 
 
-def url_feeder_process(urlsFile, urlsQueue):
-    generator = urls.urls_generator(urlsFile)
+def url_feeder_process(urlsLocation, urlsQueue):
+    #generator = urls.generate_urls_from_file(urlsLocation)
+    generator = urls.generate_urls_from_db()
     while True:
         try:
             url, proxy = generator.next()
@@ -52,15 +53,13 @@ def url_fetching_process(urlsQueue, outputQueue):
     logger = _create_process_logger('url_fetching_process')
     while True:
         url, proxy = urlsQueue.get()
-	logger.info('attempting to fetch: %s with: %s' % (url, proxy))
-	try:
-	    html = requests.get(url, proxies={'http': proxy}).text
+        logger.info('attempting to fetch: %s with: %s' % (url, proxy))
+        try:
+            html = requests.get(url, proxies={'http': proxy}).text
         except:
-	    html = ""
-	#output = parsing.parse_html(html)
-	#output = persistor.persist_html(html)
-        output = html#stub for now
-	outputQueue.put((url, output))
+            html = ""
+        output = parsing.parse_html(html)
+        outputQueue.put((url, output))
         time.sleep(random.randint(20, 75))
 
 
@@ -72,16 +71,16 @@ def html_persistance_process(outputQueue):
     logger = _create_process_logger('html_persistance_process')
     while True:
         url, data = outputQueue.get()
-        try:
-	    persistor.persist_html(url, data)
-	except Exception, e:
-	    logger.info("Error saving %s: %s" (url, str(e)))
-	#if data and 'error' not in data:
-        #    try:
-        #        data['url'] = url
-        #        data['epochstamp'] = int(time.time())
-        #        db.bundle.insert(data)
-        #    except Exception, e:
-        #        logger.info('Error saving to mongodb %s' % str(e))
-        #else:
-        #    logger.info('Skiping due to ' + str(data))
+        if data and 'error' not in data:
+            try:
+                data['url'] = url
+                data['epochstamp'] = int(time.time())
+                db.bundle.insert(data)
+            except Exception, e:
+                logger.info('Error saving to mongodb %s' % str(e))
+        else:
+            logger.info('Skiping due to ' + str(data))
+
+
+
+
