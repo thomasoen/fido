@@ -47,7 +47,7 @@ pages = list("0ABCDEFGHIJKLMNOPQRSTUVWXYZ")
 random.shuffle(pages)
 
 cntr = 0
-for pg in pages[:1]:
+for pg in pages:
     print "Starting "+pg
     pg_url = base.format(pg=pg)
     pg_soup = get_soup(pg_url)
